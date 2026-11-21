@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observador del cluster</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --text: #1d2330; --muted: #6b7385; --line: #e2e5eb;
+    --accent: #3b5bdb; --accent-text: #fff; --ok: #2f9e44; --warn: #e67700; --bad: #c92a2a;
+    --chip: #eef1f6; --shadow: 0 1px 2px rgba(0,0,0,.06), 0 2px 8px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #12151b; --panel: #1b1f27; --text: #e6e9ef; --muted: #8b93a5; --line: #2b313c;
+      --accent: #5c7cfa; --chip: #252a34; --shadow: none;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; background: var(--bg); color: var(--text); }
+  header { display: flex; align-items: center; gap: 16px; padding: 14px 24px; border-bottom: 1px solid var(--line); background: var(--panel); position: sticky; top: 0; z-index: 2; }
+  header h1 { font-size: 17px; margin: 0; font-weight: 650; }
+  .sub { color: var(--muted); font-size: 12px; }
+  .spacer { flex: 1; }
+  .live { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--bad); }
+  .live.on .dot { background: var(--ok); }
+  button { font: inherit; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--text); padding: 7px 14px; cursor: pointer; }
+  button:hover:not(:disabled) { border-color: var(--muted); }
+  button:disabled { opacity: .45; cursor: default; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-text); font-weight: 600; }
+  button.danger { color: var(--bad); }
+  button.danger:hover:not(:disabled) { border-color: var(--bad); }
+
+  main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; padding: 20px 24px; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; padding: 16px; } header { padding: 12px 16px; flex-wrap: wrap; } }
+  .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+  .panel h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0; padding: 12px 16px; border-bottom: 1px solid var(--line); font-weight: 600; }
+
+  #graph { width: 100%; height: 260px; display: block; }
+  .legend { display: flex; gap: 16px; padding: 0 16px 12px; font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+  .legend span::before { content: ""; display: inline-block; width: 22px; height: 0; border-top: 2px solid var(--muted); vertical-align: middle; margin-right: 6px; }
+  .legend .oneway::before { border-top-style: dashed; border-color: var(--warn); }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; margin-top: 20px; }
+  .card { padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; border-top: 3px solid var(--c, var(--line)); transition: opacity .2s; }
+  .card.starting, .card.stopping { opacity: .6; }
+  .card-head { display: flex; align-items: baseline; gap: 8px; }
+  .card-head strong { font-size: 16px; }
+  .card-head .full { color: var(--muted); font-size: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .badge { margin-left: auto; font-size: 11px; padding: 2px 8px; border-radius: 99px; background: var(--chip); color: var(--muted); white-space: nowrap; }
+  .badge.up { color: var(--ok); } .badge.starting, .badge.stopping { color: var(--warn); }
+  .label { font-size: 12px; color: var(--muted); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; min-height: 24px; }
+  .chip { font-size: 12px; padding: 2px 9px; border-radius: 99px; background: var(--chip); border: 1px solid transparent; }
+  .chip.oneway { border: 1px dashed var(--warn); }
+  .chip.ghost { color: var(--muted); text-decoration: line-through; }
+  .none { color: var(--muted); font-size: 12px; font-style: italic; }
+  .full-view { font-size: 12px; color: var(--ok); }
+  .full-view.partial { color: var(--warn); }
+  .card footer { display: flex; justify-content: space-between; align-items: center; margin-top: auto; }
+
+  .empty { padding: 48px 16px; text-align: center; color: var(--muted); }
+  .empty code { background: var(--chip); padding: 2px 6px; border-radius: 4px; }
+
+  #events { list-style: none; margin: 0; padding: 6px 0; max-height: calc(100vh - 150px); overflow-y: auto; }
+  #events li { display: grid; grid-template-columns: 64px 1fr; gap: 8px; padding: 5px 16px; font-size: 13px; }
+  #events time { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; }
+  #events .up { color: var(--ok); } #events .down, #events .error { color: var(--bad); }
+  #events .unlink { color: var(--warn); }
+  .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--bad); color: #fff; padding: 10px 16px; border-radius: 8px; display: none; }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Observador del cluster</h1>
+    <div class="sub" id="observer">conectando…</div>
+  </div>
+  <div class="spacer"></div>
+  <span class="live" id="live"><span class="dot"></span><span id="live-text">desconectado</span></span>
+  <button class="primary" id="add">+ Agregar nodo</button>
+</header>
+
+<main>
+  <section>
+    <div class="panel">
+      <h2>Topología</h2>
+      <svg id="graph" role="img" aria-label="Grafo de conexiones entre nodos"></svg>
+      <div class="legend"><span>se ven mutuamente</span><span class="oneway">solo uno ve al otro</span></div>
+    </div>
+    <div class="grid" id="nodes"></div>
+  </section>
+  <aside class="panel">
+    <h2>Eventos</h2>
+    <ul id="events"></ul>
+  </aside>
+</main>
+<div class="toast" id="toast"></div>
+
+<script>
+const PALETTE = ["#4263eb", "#e8590c", "#2f9e44", "#ae3ec9", "#1098ad", "#f08c00", "#d6336c", "#5c940d", "#7048e8", "#0c8599"];
+const colorCache = {};
+const colorOf = (name) => {
+  if (!(name in colorCache)) colorCache[name] = PALETTE[Object.keys(colorCache).length % PALETTE.length];
+  return colorCache[name];
+};
+const short = (n) => String(n).split("@")[0];
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+let snapshot = { nodes: [], events: [] };
+
+function render() {
+  const nodes = snapshot.nodes;
+  const byName = Object.fromEntries(nodes.map((n) => [n.name, n]));
+  const alive = nodes.filter((n) => n.status !== "starting");
+  if (snapshot.observer) document.getElementById("observer").textContent =
+    `observando desde ${snapshot.observer} (oculto) · ${alive.length} nodo${alive.length === 1 ? "" : "s"}`;
+
+  // Tarjetas
+  const grid = document.getElementById("nodes");
+  if (nodes.length === 0) {
+    grid.innerHTML = `<div class="panel empty" style="grid-column:1/-1">No hay nodos del cluster corriendo.<br><br>
+      Usá <b>+ Agregar nodo</b> o levantá uno a mano con <code>iex --sname a --cookie secreto -S mix</code></div>`;
+  } else {
+    grid.innerHTML = nodes.map((n) => {
+      const others = alive.filter((o) => o.name !== n.name).map((o) => o.name);
+      const missing = others.filter((o) => !n.known.includes(o));
+      const chips = n.known.map((k) => {
+        const peer = byName[k];
+        const cls = !peer ? "ghost" : peer.known.includes(n.name) ? "" : "oneway";
+        const title = !peer ? "no es un nodo vivo del TP" : cls ? "ese nodo no lo ve a él" : "se ven mutuamente";
+        return `<span class="chip ${cls}" title="${title}" style="${peer ? `color:${colorOf(k)}` : ""}">${esc(short(k))}</span>`;
+      }).join("");
+      const view = n.status !== "up" ? "" : missing.length === 0
+        ? `<span class="full-view">✓ ve todo el cluster</span>`
+        : `<span class="full-view partial">no ve a ${missing.map(short).map(esc).join(", ")}</span>`;
+      return `<div class="panel card ${n.status}" style="--c:${colorOf(n.name)}">
+        <div class="card-head"><strong>${esc(n.short)}</strong><span class="full" title="${esc(n.name)}">${esc(n.name)}</span>
+          <span class="badge ${n.status}">${{ up: "activo", starting: "iniciando…", stopping: "bajando…" }[n.status]}</span></div>
+        <div><div class="label">Conoce a (${n.known.length})</div>
+          <div class="chips">${chips || `<span class="none">${n.status === "starting" ? "—" : "a nadie todavía"}</span>`}</div></div>
+        <footer>${view || `<span class="label">${n.os_pid ? "PID " + esc(n.os_pid) : ""}</span>`}
+          <button class="danger" data-stop="${esc(n.name)}" ${n.status !== "up" ? "disabled" : ""}>Dar de baja</button></footer>
+      </div>`;
+    }).join("");
+  }
+
+  renderGraph(alive, byName);
+
+  // Eventos
+  document.getElementById("events").innerHTML = snapshot.events.map((e) => {
+    const t = new Date(e.at).toLocaleTimeString("es-AR", { hour12: false });
+    return `<li><time>${t}</time><span class="${e.kind}">${esc(e.text)}</span></li>`;
+  }).join("") || `<li><span class="none" style="grid-column:1/-1">Sin eventos todavía</span></li>`;
+}
+
+function renderGraph(nodes, byName) {
+  const svg = document.getElementById("graph");
+  const W = svg.clientWidth || 600, H = svg.clientHeight || 260;
+  const cx = W / 2, cy = H / 2, R = Math.min(W, H) / 2 - 40;
+  const pos = {};
+  nodes.forEach((n, i) => {
+    const a = -Math.PI / 2 + (2 * Math.PI * i) / Math.max(nodes.length, 1);
+    pos[n.name] = nodes.length === 1 ? [cx, cy] : [cx + R * Math.cos(a), cy + R * Math.sin(a)];
+  });
+  let edges = "";
+  const seen = new Set();
+  for (const n of nodes) for (const k of n.known) {
+    if (!pos[k]) continue;
+    const key = [n.name, k].sort().join("|");
+    const mutual = byName[k].known.includes(n.name);
+    if (mutual && seen.has(key)) continue;
+    seen.add(key);
+    const [x1, y1] = pos[n.name], [x2, y2] = pos[k];
+    edges += mutual
+      ? `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="var(--muted)" stroke-opacity=".55" stroke-width="2"/>`
+      : `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="var(--warn)" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrow)"/>`;
+  }
+  const circles = nodes.map((n) => {
+    const [x, y] = pos[n.name];
+    return `<g><circle cx="${x}" cy="${y}" r="20" fill="var(--panel)" stroke="${colorOf(n.name)}" stroke-width="3" opacity="${n.status === "stopping" ? .4 : 1}"/>
+      <text x="${x}" y="${y + 4}" text-anchor="middle" font-size="11" font-weight="600" fill="var(--text)">${esc(n.short)}</text></g>`;
+  }).join("");
+  svg.innerHTML = `<defs><marker id="arrow" viewBox="0 0 10 10" refX="30" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="var(--warn)"/></marker></defs>${edges}${circles}` +
+    (nodes.length ? "" : `<text x="${cx}" y="${cy}" text-anchor="middle" fill="var(--muted)">sin nodos</text>`);
+}
+
+function toast(msg) {
+  const el = document.getElementById("toast");
+  el.textContent = msg; el.style.display = "block";
+  clearTimeout(toast.t); toast.t = setTimeout(() => (el.style.display = "none"), 4000);
+}
+
+async function api(method, url) {
+  try {
+    const res = await fetch(url, { method });
+    if (!res.ok) toast((await res.json()).error || `Error ${res.status}`);
+  } catch (e) { toast("No se pudo contactar al observador"); }
+}
+
+document.getElementById("add").addEventListener("click", async (e) => {
+  e.target.disabled = true;
+  await api("POST", "/api/nodes");
+  e.target.disabled = false;
+});
+document.getElementById("nodes").addEventListener("click", (e) => {
+  const name = e.target.dataset?.stop;
+  if (name) { e.target.disabled = true; api("DELETE", `/api/nodes/${encodeURIComponent(name)}`); }
+});
+
+function connect() {
+  const live = document.getElementById("live");
+  const es = new EventSource("/events");
+  es.onopen = () => { live.classList.add("on"); document.getElementById("live-text").textContent = "en vivo"; };
+  es.onmessage = (m) => { snapshot = JSON.parse(m.data); render(); };
+  es.onerror = () => { live.classList.remove("on"); document.getElementById("live-text").textContent = "reconectando…"; };
+}
+window.addEventListener("resize", () => render());
+render();
+connect();
+</script>
+</body>
+</html>
