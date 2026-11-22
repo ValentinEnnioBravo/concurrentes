@@ -1,2 +1,0 @@
-- Que se caiga o se levante un nodo es sincronización, no consenso
-- 
