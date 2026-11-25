@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "id": "grspoy00s",
@@ -22,11 +22,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1001,
-      "version": 1,
-      "versionNonce": 1002,
+      "version": 2,
+      "versionNonce": 216201749,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Clase 3 · Haskell y STM",
@@ -37,7 +37,8 @@
       "containerId": null,
       "originalText": "Clase 3 · Haskell y STM",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxF"
     },
     {
       "id": "grv0nt538",
@@ -58,11 +59,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1004,
-      "version": 1,
-      "versionNonce": 1005,
+      "version": 2,
+      "versionNonce": 1651580347,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Cómo se coordina estado mutable compartido sin locks?",
@@ -73,7 +74,8 @@
       "containerId": null,
       "originalText": "¿Cómo se coordina estado mutable compartido sin locks?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxG"
     },
     {
       "id": "grytue25a",
@@ -94,11 +96,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1007,
-      "version": 1,
-      "versionNonce": 1008,
+      "version": 2,
+      "versionNonce": 251981685,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "= pregunta para autoevaluarte. La respuesta está a la derecha → en el cuadro punteado: tapala antes\nde leer.",
@@ -109,7 +111,8 @@
       "containerId": null,
       "originalText": "= pregunta para autoevaluarte. La respuesta está a la derecha → en el cuadro punteado: tapala antes\nde leer.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxH"
     },
     {
       "id": "gs1fcsol4",
@@ -132,8 +135,8 @@
         "type": 3
       },
       "seed": 1010,
-      "version": 1,
-      "versionNonce": 1011,
+      "version": 2,
+      "versionNonce": 60534363,
       "isDeleted": false,
       "boundElements": [
         {
@@ -141,9 +144,10 @@
           "id": "gs4fv8bcb"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YxI"
     },
     {
       "id": "gs4fv8bcb",
@@ -164,11 +168,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1013,
-      "version": 1,
-      "versionNonce": 1014,
+      "version": 2,
+      "versionNonce": 1476475093,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Haskell y\npureza",
@@ -179,7 +183,8 @@
       "containerId": "gs1fcsol4",
       "originalText": "Haskell y\npureza",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxJ"
     },
     {
       "id": "gs765r7zm",
@@ -202,11 +207,11 @@
         "type": 3
       },
       "seed": 1016,
-      "version": 1,
-      "versionNonce": 1017,
+      "version": 2,
+      "versionNonce": 241904379,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -224,7 +229,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YxK"
     },
     {
       "id": "gsasrsnrr",
@@ -247,8 +253,8 @@
         "type": 3
       },
       "seed": 1019,
-      "version": 1,
-      "versionNonce": 1020,
+      "version": 2,
+      "versionNonce": 1097684533,
       "isDeleted": false,
       "boundElements": [
         {
@@ -256,9 +262,10 @@
           "id": "gsdycluec"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YxL"
     },
     {
       "id": "gsdycluec",
@@ -279,11 +286,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1022,
-      "version": 1,
-      "versionNonce": 1023,
+      "version": 2,
+      "versionNonce": 1466045339,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Functor /\nApplicative",
@@ -294,7 +301,8 @@
       "containerId": "gsasrsnrr",
       "originalText": "Functor /\nApplicative",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxM"
     },
     {
       "id": "gsgx7ui64",
@@ -317,11 +325,11 @@
         "type": 3
       },
       "seed": 1025,
-      "version": 1,
-      "versionNonce": 1026,
+      "version": 2,
+      "versionNonce": 1445906325,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -339,7 +347,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YxN"
     },
     {
       "id": "gsjmsxq4r",
@@ -362,8 +371,8 @@
         "type": 3
       },
       "seed": 1028,
-      "version": 1,
-      "versionNonce": 1029,
+      "version": 2,
+      "versionNonce": 2125654075,
       "isDeleted": false,
       "boundElements": [
         {
@@ -371,9 +380,10 @@
           "id": "gsm8229aa"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YxO"
     },
     {
       "id": "gsm8229aa",
@@ -394,11 +404,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1031,
-      "version": 1,
-      "versionNonce": 1032,
+      "version": 2,
+      "versionNonce": 679152885,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Monad e IO",
@@ -409,7 +419,8 @@
       "containerId": "gsjmsxq4r",
       "originalText": "Monad e IO",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxP"
     },
     {
       "id": "gsp2hbjvd",
@@ -432,11 +443,11 @@
         "type": 3
       },
       "seed": 1034,
-      "version": 1,
-      "versionNonce": 1035,
+      "version": 2,
+      "versionNonce": 2051025115,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -454,7 +465,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YxQ"
     },
     {
       "id": "gsspopqlt",
@@ -477,8 +489,8 @@
         "type": 3
       },
       "seed": 1037,
-      "version": 1,
-      "versionNonce": 1038,
+      "version": 2,
+      "versionNonce": 1742186069,
       "isDeleted": false,
       "boundElements": [
         {
@@ -486,9 +498,10 @@
           "id": "gsvnca42b"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YxR"
     },
     {
       "id": "gsvnca42b",
@@ -509,11 +522,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1040,
-      "version": 1,
-      "versionNonce": 1041,
+      "version": 2,
+      "versionNonce": 1604081019,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "IORef y\nMVar",
@@ -524,7 +537,8 @@
       "containerId": "gsspopqlt",
       "originalText": "IORef y\nMVar",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxS"
     },
     {
       "id": "gsy180jcy",
@@ -547,11 +561,11 @@
         "type": 3
       },
       "seed": 1043,
-      "version": 1,
-      "versionNonce": 1044,
+      "version": 2,
+      "versionNonce": 924455861,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -569,7 +583,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YxT"
     },
     {
       "id": "gt16ek4pr",
@@ -592,8 +607,8 @@
         "type": 3
       },
       "seed": 1046,
-      "version": 1,
-      "versionNonce": 1047,
+      "version": 2,
+      "versionNonce": 1846144539,
       "isDeleted": false,
       "boundElements": [
         {
@@ -601,9 +616,10 @@
           "id": "gt47x87jr"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YxU"
     },
     {
       "id": "gt47x87jr",
@@ -624,11 +640,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1049,
-      "version": 1,
-      "versionNonce": 1050,
+      "version": 2,
+      "versionNonce": 1114101013,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "STM y TVar",
@@ -639,7 +655,8 @@
       "containerId": "gt16ek4pr",
       "originalText": "STM y TVar",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxV"
     },
     {
       "id": "gt7oemx2l",
@@ -662,11 +679,11 @@
         "type": 3
       },
       "seed": 1052,
-      "version": 1,
-      "versionNonce": 1053,
+      "version": 2,
+      "versionNonce": 1484485307,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -684,7 +701,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YxW"
     },
     {
       "id": "gtai6k57c",
@@ -707,8 +725,8 @@
         "type": 3
       },
       "seed": 1055,
-      "version": 1,
-      "versionNonce": 1056,
+      "version": 2,
+      "versionNonce": 355887733,
       "isDeleted": false,
       "boundElements": [
         {
@@ -716,9 +734,10 @@
           "id": "gtd18x5ag"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YxX"
     },
     {
       "id": "gtd18x5ag",
@@ -739,11 +758,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1058,
-      "version": 1,
-      "versionNonce": 1059,
+      "version": 2,
+      "versionNonce": 1335059291,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "retry, check\ny orElse",
@@ -754,7 +773,8 @@
       "containerId": "gtai6k57c",
       "originalText": "retry, check\ny orElse",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YxY"
     },
     {
       "id": "gtg96lnt1",
@@ -777,11 +797,11 @@
         "type": 3
       },
       "seed": 1061,
-      "version": 1,
-      "versionNonce": 1062,
+      "version": 2,
+      "versionNonce": 810243029,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -799,7 +819,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YxZ"
     },
     {
       "id": "gtjpxn3x4",
@@ -822,8 +843,8 @@
         "type": 3
       },
       "seed": 1064,
-      "version": 1,
-      "versionNonce": 1065,
+      "version": 2,
+      "versionNonce": 1269055483,
       "isDeleted": false,
       "boundElements": [
         {
@@ -831,9 +852,10 @@
           "id": "gtm3fxxy3"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxa"
     },
     {
       "id": "gtm3fxxy3",
@@ -854,11 +876,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1067,
-      "version": 1,
-      "versionNonce": 1068,
+      "version": 2,
+      "versionNonce": 1606160693,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Filósofos",
@@ -869,7 +891,8 @@
       "containerId": "gtjpxn3x4",
       "originalText": "Filósofos",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxb"
     },
     {
       "id": "gtpoplxz9",
@@ -892,13 +915,14 @@
         "type": 3
       },
       "seed": 1070,
-      "version": 1,
-      "versionNonce": 1071,
+      "version": 2,
+      "versionNonce": 380668059,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxc"
     },
     {
       "id": "gtsrr4gc4",
@@ -919,11 +943,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1073,
-      "version": 1,
-      "versionNonce": 1074,
+      "version": 2,
+      "versionNonce": 1357783701,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "CUÁNDO USAR STM: para coordinar ESTADO MUTABLE COMPARTIDO cuando varias operaciones tienen que\nverse como UNA SOLA: transferir saldo entre dos cuentas, reservar varios recursos juntos, esperar a\nque haya datos en una cola. Si los datos son inmutables o cada tarea tiene su propio estado, no\nhace falta. Como una falla en medio de la transacción no deja nada a medias, simplifica mucho el\nmanejo de errores.",
@@ -934,7 +958,8 @@
       "containerId": null,
       "originalText": "CUÁNDO USAR STM: para coordinar ESTADO MUTABLE COMPARTIDO cuando varias operaciones tienen que\nverse como UNA SOLA: transferir saldo entre dos cuentas, reservar varios recursos juntos, esperar a\nque haya datos en una cola. Si los datos son inmutables o cada tarea tiene su propio estado, no\nhace falta. Como una falla en medio de la transacción no deja nada a medias, simplifica mucho el\nmanejo de errores.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxd"
     },
     {
       "id": "gtvzwono5",
@@ -957,8 +982,8 @@
         "type": 3
       },
       "seed": 1076,
-      "version": 1,
-      "versionNonce": 1077,
+      "version": 2,
+      "versionNonce": 376094011,
       "isDeleted": false,
       "boundElements": [
         {
@@ -966,9 +991,10 @@
           "id": "gtyoizk05"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxe"
     },
     {
       "id": "gtyoizk05",
@@ -989,11 +1015,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1079,
-      "version": 1,
-      "versionNonce": 1080,
+      "version": 2,
+      "versionNonce": 1754728437,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "1. Haskell: pureza y tipos",
@@ -1004,7 +1030,8 @@
       "containerId": "gtvzwono5",
       "originalText": "1. Haskell: pureza y tipos",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxf"
     },
     {
       "id": "gu1tld76g",
@@ -1027,8 +1054,8 @@
         "type": 3
       },
       "seed": 1082,
-      "version": 1,
-      "versionNonce": 1083,
+      "version": 2,
+      "versionNonce": 1446338011,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1036,9 +1063,10 @@
           "id": "gu42lbt3u"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxg"
     },
     {
       "id": "gu42lbt3u",
@@ -1059,11 +1087,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1085,
-      "version": 1,
-      "versionNonce": 1086,
+      "version": 2,
+      "versionNonce": 1488732501,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Pureza",
@@ -1074,7 +1102,8 @@
       "containerId": "gu1tld76g",
       "originalText": "Pureza",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxh"
     },
     {
       "id": "gu7r1s075",
@@ -1095,11 +1124,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1088,
-      "version": 1,
-      "versionNonce": 1089,
+      "version": 2,
+      "versionNonce": 1361242747,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "• NO hay estado mutable.\n• PUREZA: no hay efectos colaterales; las funciones reciben, operan y devuelven valores.\n• Evaluación diferida, orden superior, pattern matching, lambdas, inmutabilidad.\n• Tipado ESTÁTICO (al compilar), con tipos genéricos y TYPECLASSES como Ord, Show, Num  →  a -> a -> a\n• Útil para concurrencia: varias tareas pueden LEER LO MISMO sin coordinarse.",
@@ -1110,7 +1139,8 @@
       "containerId": null,
       "originalText": "• NO hay estado mutable.\n• PUREZA: no hay efectos colaterales; las funciones reciben, operan y devuelven valores.\n• Evaluación diferida, orden superior, pattern matching, lambdas, inmutabilidad.\n• Tipado ESTÁTICO (al compilar), con tipos genéricos y TYPECLASSES como Ord, Show, Num  →  a -> a -> a\n• Útil para concurrencia: varias tareas pueden LEER LO MISMO sin coordinarse.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxi"
     },
     {
       "id": "guarmt0yc",
@@ -1133,8 +1163,8 @@
         "type": 3
       },
       "seed": 1091,
-      "version": 1,
-      "versionNonce": 1092,
+      "version": 2,
+      "versionNonce": 1991462581,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1142,9 +1172,10 @@
           "id": "gudesjcie"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxj"
     },
     {
       "id": "gudesjcie",
@@ -1165,11 +1196,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1094,
-      "version": 1,
-      "versionNonce": 1095,
+      "version": 2,
+      "versionNonce": 2079712027,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Estructuras",
@@ -1180,7 +1211,8 @@
       "containerId": "guarmt0yc",
       "originalText": "Estructuras",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxk"
     },
     {
       "id": "gugcivg8u",
@@ -1201,11 +1233,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1097,
-      "version": 1,
-      "versionNonce": 1098,
+      "version": 2,
+      "versionNonce": 1361162261,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Una estructura funcional se puede ver de dos formas: como CONTENEDOR (guarda valores) o como\nCOMPUTACIÓN (una función que la devuelve, que produce valores).",
@@ -1216,7 +1248,8 @@
       "containerId": null,
       "originalText": "Una estructura funcional se puede ver de dos formas: como CONTENEDOR (guarda valores) o como\nCOMPUTACIÓN (una función que la devuelve, que produce valores).",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxl"
     },
     {
       "id": "gujut6f3n",
@@ -1237,13 +1270,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1100,
-      "version": 1,
-      "versionNonce": 1101,
+      "version": 2,
+      "versionNonce": 253806523,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxm"
     },
     {
       "id": "gumsh1468",
@@ -1264,11 +1298,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1103,
-      "version": 1,
-      "versionNonce": 1104,
+      "version": 2,
+      "versionNonce": 100459893,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Estructura",
@@ -1279,7 +1313,8 @@
       "containerId": null,
       "originalText": "Estructura",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxn"
     },
     {
       "id": "gupg81c6h",
@@ -1300,13 +1335,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1106,
-      "version": 1,
-      "versionNonce": 1107,
+      "version": 2,
+      "versionNonce": 281417819,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxo"
     },
     {
       "id": "gusci05cy",
@@ -1327,11 +1363,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1109,
-      "version": 1,
-      "versionNonce": 1110,
+      "version": 2,
+      "versionNonce": 1485467349,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Definición",
@@ -1342,7 +1378,8 @@
       "containerId": null,
       "originalText": "Definición",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxp"
     },
     {
       "id": "guvmjn53z",
@@ -1363,13 +1400,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1112,
-      "version": 1,
-      "versionNonce": 1113,
+      "version": 2,
+      "versionNonce": 515396859,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxq"
     },
     {
       "id": "guyh28ajf",
@@ -1390,11 +1428,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1115,
-      "version": 1,
-      "versionNonce": 1116,
+      "version": 2,
+      "versionNonce": 123718709,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Como contenedor",
@@ -1405,7 +1443,8 @@
       "containerId": null,
       "originalText": "Como contenedor",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxr"
     },
     {
       "id": "gv1wr2yjb",
@@ -1426,13 +1465,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1118,
-      "version": 1,
-      "versionNonce": 1119,
+      "version": 2,
+      "versionNonce": 2021260699,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxs"
     },
     {
       "id": "gv4x7j0mv",
@@ -1453,11 +1493,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1121,
-      "version": 1,
-      "versionNonce": 1122,
+      "version": 2,
+      "versionNonce": 1650621845,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Como computación",
@@ -1468,7 +1508,8 @@
       "containerId": null,
       "originalText": "Como computación",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxt"
     },
     {
       "id": "gv7fwlpvr",
@@ -1489,13 +1530,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1124,
-      "version": 1,
-      "versionNonce": 1125,
+      "version": 2,
+      "versionNonce": 1228771899,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxu"
     },
     {
       "id": "gvaodbdfo",
@@ -1516,11 +1558,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1127,
-      "version": 1,
-      "versionNonce": 1128,
+      "version": 2,
+      "versionNonce": 549978869,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "List",
@@ -1531,7 +1573,8 @@
       "containerId": null,
       "originalText": "List",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxv"
     },
     {
       "id": "gvdvnog5d",
@@ -1552,13 +1595,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1130,
-      "version": 1,
-      "versionNonce": 1131,
+      "version": 2,
+      "versionNonce": 837128923,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxw"
     },
     {
       "id": "gvgulvudf",
@@ -1579,11 +1623,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1133,
-      "version": 1,
-      "versionNonce": 1134,
+      "version": 2,
+      "versionNonce": 1997921365,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "data List a = Nil | Cons a\n(List a)",
@@ -1594,7 +1638,8 @@
       "containerId": null,
       "originalText": "data List a = Nil | Cons a\n(List a)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxx"
     },
     {
       "id": "gvjy0hru1",
@@ -1615,13 +1660,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1136,
-      "version": 1,
-      "versionNonce": 1137,
+      "version": 2,
+      "versionNonce": 319061883,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yxy"
     },
     {
       "id": "gvmd4yo19",
@@ -1642,11 +1688,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1139,
-      "version": 1,
-      "versionNonce": 1140,
+      "version": 2,
+      "versionNonce": 1830914485,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Secuencia ordenada de\nvalores, con repetidos",
@@ -1657,7 +1703,8 @@
       "containerId": null,
       "originalText": "Secuencia ordenada de\nvalores, con repetidos",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yxz"
     },
     {
       "id": "gvplzmml0",
@@ -1678,13 +1725,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1142,
-      "version": 1,
-      "versionNonce": 1143,
+      "version": 2,
+      "versionNonce": 383571995,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yy0"
     },
     {
       "id": "gvs0533s9",
@@ -1705,11 +1753,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1145,
-      "version": 1,
-      "versionNonce": 1146,
+      "version": 2,
+      "versionNonce": 1947241237,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "NO DETERMINÍSTICA: varios resultados (hermanos\n\"Jon\" = [\"Robb\", \"Sansa\", \"Arya\", \"Bran\"])",
@@ -1720,7 +1768,8 @@
       "containerId": null,
       "originalText": "NO DETERMINÍSTICA: varios resultados (hermanos\n\"Jon\" = [\"Robb\", \"Sansa\", \"Arya\", \"Bran\"])",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yy1"
     },
     {
       "id": "gvvpg84wm",
@@ -1741,13 +1790,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1148,
-      "version": 1,
-      "versionNonce": 1149,
+      "version": 2,
+      "versionNonce": 2069961915,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yy2"
     },
     {
       "id": "gvy1nchp4",
@@ -1768,11 +1818,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1151,
-      "version": 1,
-      "versionNonce": 1152,
+      "version": 2,
+      "versionNonce": 1012424821,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Maybe",
@@ -1783,7 +1833,8 @@
       "containerId": null,
       "originalText": "Maybe",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yy3"
     },
     {
       "id": "gw12x48sc",
@@ -1804,13 +1855,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1154,
-      "version": 1,
-      "versionNonce": 1155,
+      "version": 2,
+      "versionNonce": 473156955,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yy4"
     },
     {
       "id": "gw420dp7p",
@@ -1831,11 +1883,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1157,
-      "version": 1,
-      "versionNonce": 1158,
+      "version": 2,
+      "versionNonce": 1270778325,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "data Maybe a = Nothing | Just\na",
@@ -1846,7 +1898,8 @@
       "containerId": null,
       "originalText": "data Maybe a = Nothing | Just\na",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yy5"
     },
     {
       "id": "gw76xk3f4",
@@ -1867,13 +1920,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1160,
-      "version": 1,
-      "versionNonce": 1161,
+      "version": 2,
+      "versionNonce": 1017604603,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yy6"
     },
     {
       "id": "gwa9jgbqe",
@@ -1894,11 +1948,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1163,
-      "version": 1,
-      "versionNonce": 1164,
+      "version": 2,
+      "versionNonce": 1398310709,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Una caja con cero o un\nelemento",
@@ -1909,7 +1963,8 @@
       "containerId": null,
       "originalText": "Una caja con cero o un\nelemento",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yy7"
     },
     {
       "id": "gwdoikluq",
@@ -1930,13 +1985,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1166,
-      "version": 1,
-      "versionNonce": 1167,
+      "version": 2,
+      "versionNonce": 297693851,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yy8"
     },
     {
       "id": "gwgkqcf93",
@@ -1957,11 +2013,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1169,
-      "version": 1,
-      "versionNonce": 1170,
+      "version": 2,
+      "versionNonce": 1166792853,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "PUEDE FALLAR: findUser 3 puede dar Nothing",
@@ -1972,7 +2028,8 @@
       "containerId": null,
       "originalText": "PUEDE FALLAR: findUser 3 puede dar Nothing",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yy9"
     },
     {
       "id": "gwjhh4n2e",
@@ -1993,13 +2050,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1172,
-      "version": 1,
-      "versionNonce": 1173,
+      "version": 2,
+      "versionNonce": 204171067,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyA"
     },
     {
       "id": "gwm4tvnq3",
@@ -2020,11 +2078,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1175,
-      "version": 1,
-      "versionNonce": 1176,
+      "version": 2,
+      "versionNonce": 739114485,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Either",
@@ -2035,7 +2093,8 @@
       "containerId": null,
       "originalText": "Either",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyB"
     },
     {
       "id": "gwpdykqoe",
@@ -2056,13 +2115,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1178,
-      "version": 1,
-      "versionNonce": 1179,
+      "version": 2,
+      "versionNonce": 1649461211,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyC"
     },
     {
       "id": "gwsiboyn8",
@@ -2083,11 +2143,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1181,
-      "version": 1,
-      "versionNonce": 1182,
+      "version": 2,
+      "versionNonce": 1038382933,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "data Either a b = Left a |\nRight b",
@@ -2098,7 +2158,8 @@
       "containerId": null,
       "originalText": "data Either a b = Left a |\nRight b",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyD"
     },
     {
       "id": "gwvzw4trt",
@@ -2119,13 +2180,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1184,
-      "version": 1,
-      "versionNonce": 1185,
+      "version": 2,
+      "versionNonce": 1514214523,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyE"
     },
     {
       "id": "gwyl11irs",
@@ -2146,11 +2208,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1187,
-      "version": 1,
-      "versionNonce": 1188,
+      "version": 2,
+      "versionNonce": 895796405,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Caja con dos compartimentos;\nse usa uno",
@@ -2161,7 +2223,8 @@
       "containerId": null,
       "originalText": "Caja con dos compartimentos;\nse usa uno",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyF"
     },
     {
       "id": "gx1210hlr",
@@ -2182,13 +2245,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1190,
-      "version": 1,
-      "versionNonce": 1191,
+      "version": 2,
+      "versionNonce": 1405013275,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyG"
     },
     {
       "id": "gx4gnm293",
@@ -2209,11 +2273,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1193,
-      "version": 1,
-      "versionNonce": 1194,
+      "version": 2,
+      "versionNonce": 1714710037,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "ÉXITO O ERROR: Right = éxito, Left = error. A\ndiferencia de una excepción, el error queda\ndeclarado en la FIRMA",
@@ -2224,7 +2288,8 @@
       "containerId": null,
       "originalText": "ÉXITO O ERROR: Right = éxito, Left = error. A\ndiferencia de una excepción, el error queda\ndeclarado en la FIRMA",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyH"
     },
     {
       "id": "gx78yofqa",
@@ -2247,8 +2312,8 @@
         "type": 3
       },
       "seed": 1196,
-      "version": 1,
-      "versionNonce": 1197,
+      "version": 2,
+      "versionNonce": 305951163,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2256,9 +2321,10 @@
           "id": "gxatvlgyb"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyI"
     },
     {
       "id": "gxatvlgyb",
@@ -2279,11 +2345,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1199,
-      "version": 1,
-      "versionNonce": 1200,
+      "version": 2,
+      "versionNonce": 323541877,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "2. Efectos en un lenguaje puro: IO",
@@ -2294,7 +2360,8 @@
       "containerId": "gx78yofqa",
       "originalText": "2. Efectos en un lenguaje puro: IO",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyJ"
     },
     {
       "id": "gxd8bl4oe",
@@ -2317,8 +2384,8 @@
         "type": 3
       },
       "seed": 1202,
-      "version": 1,
-      "versionNonce": 1203,
+      "version": 2,
+      "versionNonce": 1188856411,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2326,9 +2393,10 @@
           "id": "gxgckx66u"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyK"
     },
     {
       "id": "gxgckx66u",
@@ -2349,11 +2417,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1205,
-      "version": 1,
-      "versionNonce": 1206,
+      "version": 2,
+      "versionNonce": 82289877,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "El problema",
@@ -2364,7 +2432,8 @@
       "containerId": "gxd8bl4oe",
       "originalText": "El problema",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyL"
     },
     {
       "id": "gxj3ad3wo",
@@ -2385,11 +2454,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1208,
-      "version": 1,
-      "versionNonce": 1209,
+      "version": 2,
+      "versionNonce": 1517387515,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Cómo se hace compatible una función pura (siempre devuelve lo mismo para una entrada, sin efectos) con\nimprimir, leer un archivo o modificar memoria compartida? Un programa real necesita manejar estado.\nHaskell no lo prohíbe: lo ENCIERRA EN UN TIPO.",
@@ -2400,7 +2469,8 @@
       "containerId": null,
       "originalText": "¿Cómo se hace compatible una función pura (siempre devuelve lo mismo para una entrada, sin efectos) con\nimprimir, leer un archivo o modificar memoria compartida? Un programa real necesita manejar estado.\nHaskell no lo prohíbe: lo ENCIERRA EN UN TIPO.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyM"
     },
     {
       "id": "gxmht8pcx",
@@ -2423,8 +2493,8 @@
         "type": 3
       },
       "seed": 1211,
-      "version": 1,
-      "versionNonce": 1212,
+      "version": 2,
+      "versionNonce": 1587954229,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2432,9 +2502,10 @@
           "id": "gxpj8la5m"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyN"
     },
     {
       "id": "gxpj8la5m",
@@ -2455,11 +2526,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1214,
-      "version": 1,
-      "versionNonce": 1215,
+      "version": 2,
+      "versionNonce": 2004739995,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "IO a",
@@ -2470,7 +2541,8 @@
       "containerId": "gxmht8pcx",
       "originalText": "IO a",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyO"
     },
     {
       "id": "gxshbrlhk",
@@ -2491,11 +2563,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1217,
-      "version": 1,
-      "versionNonce": 1218,
+      "version": 2,
+      "versionNonce": 896152469,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Un valor de tipo IO a es una ACCIÓN: la DESCRIPCIÓN de un efecto que, cuando el runtime de GHC la\nEJECUTA, produce un valor de tipo a. Evaluar putStrLn \"hola\" NO imprime: produce un IO () que se\nejecuta después.",
@@ -2506,7 +2578,8 @@
       "containerId": null,
       "originalText": "Un valor de tipo IO a es una ACCIÓN: la DESCRIPCIÓN de un efecto que, cuando el runtime de GHC la\nEJECUTA, produce un valor de tipo a. Evaluar putStrLn \"hola\" NO imprime: produce un IO () que se\nejecuta después.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyP"
     },
     {
       "id": "gxv8uxok2",
@@ -2527,13 +2600,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1220,
-      "version": 1,
-      "versionNonce": 1221,
+      "version": 2,
+      "versionNonce": 1412709435,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyQ"
     },
     {
       "id": "gxyz8lj3f",
@@ -2554,11 +2628,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1223,
-      "version": 1,
-      "versionNonce": 1224,
+      "version": 2,
+      "versionNonce": 1701378293,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "putStrLn :: String -> IO ()\nhPutStr  :: Handle -> String -> IO ()   -- imprimir es un efecto de lado: escribe el estado mutable stdout\nhGetLine :: Handle -> IO String         -- IO String: caja IO que, al ejecutarse, produce un String\n-- IO (): produce (), un tipo con un único valor (cuando el resultado no interesa)",
@@ -2569,7 +2643,8 @@
       "containerId": null,
       "originalText": "putStrLn :: String -> IO ()\nhPutStr  :: Handle -> String -> IO ()   -- imprimir es un efecto de lado: escribe el estado mutable stdout\nhGetLine :: Handle -> IO String         -- IO String: caja IO que, al ejecutarse, produce un String\n-- IO (): produce (), un tipo con un único valor (cuando el resultado no interesa)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyR"
     },
     {
       "id": "gy1r9sfpp",
@@ -2592,8 +2667,8 @@
         "type": 3
       },
       "seed": 1226,
-      "version": 1,
-      "versionNonce": 1227,
+      "version": 2,
+      "versionNonce": 1014430939,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2601,9 +2676,10 @@
           "id": "gy4g2ha1d"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyS"
     },
     {
       "id": "gy4g2ha1d",
@@ -2624,11 +2700,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1229,
-      "version": 1,
-      "versionNonce": 1230,
+      "version": 2,
+      "versionNonce": 673714773,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "3. Functor, Applicative y Monad",
@@ -2639,7 +2715,8 @@
       "containerId": "gy1r9sfpp",
       "originalText": "3. Functor, Applicative y Monad",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyT"
     },
     {
       "id": "gy72u5f8w",
@@ -2662,8 +2739,8 @@
         "type": 3
       },
       "seed": 1232,
-      "version": 1,
-      "versionNonce": 1233,
+      "version": 2,
+      "versionNonce": 1540925819,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2671,9 +2748,10 @@
           "id": "gya0deg9n"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyU"
     },
     {
       "id": "gya0deg9n",
@@ -2694,11 +2772,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1235,
-      "version": 1,
-      "versionNonce": 1236,
+      "version": 2,
+      "versionNonce": 1786576821,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Los tres",
@@ -2709,7 +2787,8 @@
       "containerId": "gy72u5f8w",
       "originalText": "Los tres",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyV"
     },
     {
       "id": "gydrgo8je",
@@ -2730,13 +2809,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1238,
-      "version": 1,
-      "versionNonce": 1239,
+      "version": 2,
+      "versionNonce": 1201390107,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyW"
     },
     {
       "id": "gyg3grgqm",
@@ -2757,11 +2837,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1241,
-      "version": 1,
-      "versionNonce": 1242,
+      "version": 2,
+      "versionNonce": 1653424405,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Typeclass",
@@ -2772,7 +2852,8 @@
       "containerId": null,
       "originalText": "Typeclass",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyX"
     },
     {
       "id": "gyjgtrwta",
@@ -2793,13 +2874,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1244,
-      "version": 1,
-      "versionNonce": 1245,
+      "version": 2,
+      "versionNonce": 1219675835,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YyY"
     },
     {
       "id": "gym6q688p",
@@ -2820,11 +2902,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1247,
-      "version": 1,
-      "versionNonce": 1248,
+      "version": 2,
+      "versionNonce": 1708021365,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Operación",
@@ -2835,7 +2917,8 @@
       "containerId": null,
       "originalText": "Operación",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YyZ"
     },
     {
       "id": "gypbt7nyd",
@@ -2856,13 +2939,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1250,
-      "version": 1,
-      "versionNonce": 1251,
+      "version": 2,
+      "versionNonce": 1707095899,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yya"
     },
     {
       "id": "gysz2530f",
@@ -2883,11 +2967,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1253,
-      "version": 1,
-      "versionNonce": 1254,
+      "version": 2,
+      "versionNonce": 2131083221,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Qué hace",
@@ -2898,7 +2982,8 @@
       "containerId": null,
       "originalText": "Qué hace",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyb"
     },
     {
       "id": "gyvm3bysx",
@@ -2919,13 +3004,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1256,
-      "version": 1,
-      "versionNonce": 1257,
+      "version": 2,
+      "versionNonce": 756454395,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyc"
     },
     {
       "id": "gyypamcuk",
@@ -2946,11 +3032,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1259,
-      "version": 1,
-      "versionNonce": 1260,
+      "version": 2,
+      "versionNonce": 1145634101,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Cuándo sirve",
@@ -2961,7 +3047,8 @@
       "containerId": null,
       "originalText": "Cuándo sirve",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyd"
     },
     {
       "id": "gz1628u7x",
@@ -2982,13 +3069,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1262,
-      "version": 1,
-      "versionNonce": 1263,
+      "version": 2,
+      "versionNonce": 1052269723,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yye"
     },
     {
       "id": "gz4u5y1ma",
@@ -3009,11 +3097,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1265,
-      "version": 1,
-      "versionNonce": 1266,
+      "version": 2,
+      "versionNonce": 1828556437,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Functor",
@@ -3024,7 +3112,8 @@
       "containerId": null,
       "originalText": "Functor",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyf"
     },
     {
       "id": "gz791ebzp",
@@ -3045,13 +3134,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1268,
-      "version": 1,
-      "versionNonce": 1269,
+      "version": 2,
+      "versionNonce": 374870331,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyg"
     },
     {
       "id": "gzad43jfs",
@@ -3072,11 +3162,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1271,
-      "version": 1,
-      "versionNonce": 1272,
+      "version": 2,
+      "versionNonce": 668529653,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "<$> (fmap)",
@@ -3087,7 +3177,8 @@
       "containerId": null,
       "originalText": "<$> (fmap)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyh"
     },
     {
       "id": "gzdgev560",
@@ -3108,13 +3199,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1274,
-      "version": 1,
-      "versionNonce": 1275,
+      "version": 2,
+      "versionNonce": 358101467,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyi"
     },
     {
       "id": "gzgkum759",
@@ -3135,11 +3227,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1277,
-      "version": 1,
-      "versionNonce": 1278,
+      "version": 2,
+      "versionNonce": 820030805,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Aplicar una FUNCIÓN a un VALOR ENVUELTO",
@@ -3150,7 +3242,8 @@
       "containerId": null,
       "originalText": "Aplicar una FUNCIÓN a un VALOR ENVUELTO",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyj"
     },
     {
       "id": "gzj1tjhl6",
@@ -3171,13 +3264,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1280,
-      "version": 1,
-      "versionNonce": 1281,
+      "version": 2,
+      "versionNonce": 1288388219,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyk"
     },
     {
       "id": "gzmh06q85",
@@ -3198,11 +3292,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1283,
-      "version": 1,
-      "versionNonce": 1284,
+      "version": 2,
+      "versionNonce": 661273269,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Transformar lo que hay en la caja sin\nabrirla a mano",
@@ -3213,7 +3307,8 @@
       "containerId": null,
       "originalText": "Transformar lo que hay en la caja sin\nabrirla a mano",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyl"
     },
     {
       "id": "gzpr9oraw",
@@ -3234,13 +3329,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1286,
-      "version": 1,
-      "versionNonce": 1287,
+      "version": 2,
+      "versionNonce": 125024027,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yym"
     },
     {
       "id": "gzsi1p2q3",
@@ -3261,11 +3357,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1289,
-      "version": 1,
-      "versionNonce": 1290,
+      "version": 2,
+      "versionNonce": 605756437,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Applicative",
@@ -3276,7 +3372,8 @@
       "containerId": null,
       "originalText": "Applicative",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyn"
     },
     {
       "id": "gzvh7wo6l",
@@ -3297,13 +3394,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1292,
-      "version": 1,
-      "versionNonce": 1293,
+      "version": 2,
+      "versionNonce": 331619259,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyo"
     },
     {
       "id": "gzyd3b5gg",
@@ -3324,11 +3422,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1295,
-      "version": 1,
-      "versionNonce": 1296,
+      "version": 2,
+      "versionNonce": 250138997,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "<*> y pure",
@@ -3339,7 +3437,8 @@
       "containerId": null,
       "originalText": "<*> y pure",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyp"
     },
     {
       "id": "g101n3cp44",
@@ -3360,13 +3459,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1298,
-      "version": 1,
-      "versionNonce": 1299,
+      "version": 2,
+      "versionNonce": 1306455131,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyq"
     },
     {
       "id": "g104k5hm5s",
@@ -3387,11 +3487,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1301,
-      "version": 1,
-      "versionNonce": 1302,
+      "version": 2,
+      "versionNonce": 890821333,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Aplicar una FUNCIÓN ENVUELTA a un VALOR\nENVUELTO",
@@ -3402,7 +3502,8 @@
       "containerId": null,
       "originalText": "Aplicar una FUNCIÓN ENVUELTA a un VALOR\nENVUELTO",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyr"
     },
     {
       "id": "g107y8lzb6",
@@ -3423,13 +3524,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1304,
-      "version": 1,
-      "versionNonce": 1305,
+      "version": 2,
+      "versionNonce": 1771481339,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yys"
     },
     {
       "id": "g10a3qxxq9",
@@ -3450,11 +3552,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1307,
-      "version": 1,
-      "versionNonce": 1308,
+      "version": 2,
+      "versionNonce": 524335157,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Cuando los pasos que producen los\nargumentos son INDEPENDIENTES entre sí\n(si falta un valor: Nothing)",
@@ -3465,7 +3567,8 @@
       "containerId": null,
       "originalText": "Cuando los pasos que producen los\nargumentos son INDEPENDIENTES entre sí\n(si falta un valor: Nothing)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyt"
     },
     {
       "id": "g10dyfk1bf",
@@ -3486,13 +3589,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1310,
-      "version": 1,
-      "versionNonce": 1311,
+      "version": 2,
+      "versionNonce": 2087571867,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyu"
     },
     {
       "id": "g10gvcyh2g",
@@ -3513,11 +3617,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1313,
-      "version": 1,
-      "versionNonce": 1314,
+      "version": 2,
+      "versionNonce": 658893205,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Monad",
@@ -3528,7 +3632,8 @@
       "containerId": null,
       "originalText": "Monad",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyv"
     },
     {
       "id": "g10juw20pm",
@@ -3549,13 +3654,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1316,
-      "version": 1,
-      "versionNonce": 1317,
+      "version": 2,
+      "versionNonce": 1201071675,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyw"
     },
     {
       "id": "g10mcswmsm",
@@ -3576,11 +3682,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1319,
-      "version": 1,
-      "versionNonce": 1320,
+      "version": 2,
+      "versionNonce": 1314778869,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": ">>= (bind) o do",
@@ -3591,7 +3697,8 @@
       "containerId": null,
       "originalText": ">>= (bind) o do",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyx"
     },
     {
       "id": "g10pite6db",
@@ -3612,13 +3719,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1322,
-      "version": 1,
-      "versionNonce": 1323,
+      "version": 2,
+      "versionNonce": 1106536155,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yyy"
     },
     {
       "id": "g10sxoqij2",
@@ -3639,11 +3747,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1325,
-      "version": 1,
-      "versionNonce": 1326,
+      "version": 2,
+      "versionNonce": 1393444949,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Aplicar una función que DEVUELVE un\nvalor envuelto a un valor envuelto",
@@ -3654,7 +3762,8 @@
       "containerId": null,
       "originalText": "Aplicar una función que DEVUELVE un\nvalor envuelto a un valor envuelto",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yyz"
     },
     {
       "id": "g10vhugo4e",
@@ -3675,13 +3784,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1328,
-      "version": 1,
-      "versionNonce": 1329,
+      "version": 2,
+      "versionNonce": 1645794171,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yz0"
     },
     {
       "id": "g10ygfe417",
@@ -3702,11 +3812,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1331,
-      "version": 1,
-      "versionNonce": 1332,
+      "version": 2,
+      "versionNonce": 120354229,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Cuando el paso siguiente DEPENDE del\nvalor del anterior. Abstrae los\nresultados intermedios: no se chequea\nen cada paso, se aplica en orden y se\nve al final",
@@ -3717,7 +3827,8 @@
       "containerId": null,
       "originalText": "Cuando el paso siguiente DEPENDE del\nvalor del anterior. Abstrae los\nresultados intermedios: no se chequea\nen cada paso, se aplica en orden y se\nve al final",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yz1"
     },
     {
       "id": "g1111fr48z",
@@ -3740,13 +3851,14 @@
         "type": 3
       },
       "seed": 1334,
-      "version": 1,
-      "versionNonce": 1335,
+      "version": 2,
+      "versionNonce": 675720219,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yz2"
     },
     {
       "id": "g114mhubjm",
@@ -3767,11 +3879,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1337,
-      "version": 1,
-      "versionNonce": 1338,
+      "version": 2,
+      "versionNonce": 1709045525,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Toda Monad es un Applicative y todo Applicative es un Functor. IO es una mónada, y STM también: así\nmaneja Haskell los efectos de forma compatible con funciones puras.",
@@ -3782,7 +3894,8 @@
       "containerId": null,
       "originalText": "Toda Monad es un Applicative y todo Applicative es un Functor. IO es una mónada, y STM también: así\nmaneja Haskell los efectos de forma compatible con funciones puras.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yz3"
     },
     {
       "id": "g1175zy9t9",
@@ -3805,8 +3918,8 @@
         "type": 3
       },
       "seed": 1340,
-      "version": 1,
-      "versionNonce": 1341,
+      "version": 2,
+      "versionNonce": 1752199355,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3814,9 +3927,10 @@
           "id": "g11a4up4a1"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yz4"
     },
     {
       "id": "g11a4up4a1",
@@ -3837,11 +3951,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1343,
-      "version": 1,
-      "versionNonce": 1344,
+      "version": 2,
+      "versionNonce": 1771588725,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Functor",
@@ -3852,7 +3966,8 @@
       "containerId": "g1175zy9t9",
       "originalText": "Functor",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yz5"
     },
     {
       "id": "g11di6rmll",
@@ -3873,13 +3988,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1346,
-      "version": 1,
-      "versionNonce": 1347,
+      "version": 2,
+      "versionNonce": 1412997467,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yz6"
     },
     {
       "id": "g11gyx0r3e",
@@ -3900,11 +4016,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1349,
-      "version": 1,
-      "versionNonce": 1350,
+      "version": 2,
+      "versionNonce": 572585429,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "class Functor f where\n    fmap :: (a -> b) -> f a -> f b\n\ninstance Functor Maybe where\n    fmap func (Just val) = Just (func val)\n    fmap func Nothing    = Nothing          -- aplicarle una función a nada da nada\n\nfmap (+3) (Just 2)     -- Just 5\nfmap (+3) Nothing      -- Nothing\nfmap (+3) (+2) $ 10    -- 15: las listas son functores (fmap = map) y las funciones también (fmap = composición)",
@@ -3915,7 +4031,8 @@
       "containerId": null,
       "originalText": "class Functor f where\n    fmap :: (a -> b) -> f a -> f b\n\ninstance Functor Maybe where\n    fmap func (Just val) = Just (func val)\n    fmap func Nothing    = Nothing          -- aplicarle una función a nada da nada\n\nfmap (+3) (Just 2)     -- Just 5\nfmap (+3) Nothing      -- Nothing\nfmap (+3) (+2) $ 10    -- 15: las listas son functores (fmap = map) y las funciones también (fmap = composición)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yz7"
     },
     {
       "id": "g11jmywhvl",
@@ -3936,11 +4053,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1352,
-      "version": 1,
-      "versionNonce": 1353,
+      "version": 2,
+      "versionNonce": 1156693499,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "En otros lenguajes hay que definir qué hacer con el nil con un \"if\"; con Maybe el Functor lo resuelve.\nAdemás, en Haskell TODA función recibe un argumento y devuelve otra función que espera el siguiente\n(currying): (+) aplicada a un solo argumento da una función parcialmente aplicada, como (+5). Eso lleva\na…",
@@ -3951,7 +4068,8 @@
       "containerId": null,
       "originalText": "En otros lenguajes hay que definir qué hacer con el nil con un \"if\"; con Maybe el Functor lo resuelve.\nAdemás, en Haskell TODA función recibe un argumento y devuelve otra función que espera el siguiente\n(currying): (+) aplicada a un solo argumento da una función parcialmente aplicada, como (+5). Eso lleva\na…",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yz8"
     },
     {
       "id": "g11mjepkhk",
@@ -3974,8 +4092,8 @@
         "type": 3
       },
       "seed": 1355,
-      "version": 1,
-      "versionNonce": 1356,
+      "version": 2,
+      "versionNonce": 177042229,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3983,9 +4101,10 @@
           "id": "g11pw3r7rf"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yz9"
     },
     {
       "id": "g11pw3r7rf",
@@ -4006,11 +4125,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1358,
-      "version": 1,
-      "versionNonce": 1359,
+      "version": 2,
+      "versionNonce": 1168000667,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Applicative",
@@ -4021,7 +4140,8 @@
       "containerId": "g11mjepkhk",
       "originalText": "Applicative",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzA"
     },
     {
       "id": "g11s4yrzdt",
@@ -4042,11 +4162,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1361,
-      "version": 1,
-      "versionNonce": 1362,
+      "version": 2,
+      "versionNonce": 524502165,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "(+) <$> Just 5 da Just (+5): una FUNCIÓN DENTRO DE LA CAJA. fmap ya no alcanza para aplicársela a Just\n3, porque espera una función suelta. Applicative agrega <*> (desenvuelve la función, desenvuelve el\nvalor y aplica) y pure (mete un valor suelto en el contexto: lifting).",
@@ -4057,7 +4177,8 @@
       "containerId": null,
       "originalText": "(+) <$> Just 5 da Just (+5): una FUNCIÓN DENTRO DE LA CAJA. fmap ya no alcanza para aplicársela a Just\n3, porque espera una función suelta. Applicative agrega <*> (desenvuelve la función, desenvuelve el\nvalor y aplica) y pure (mete un valor suelto en el contexto: lifting).",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzB"
     },
     {
       "id": "g11va8vgwm",
@@ -4078,13 +4199,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1364,
-      "version": 1,
-      "versionNonce": 1365,
+      "version": 2,
+      "versionNonce": 1559280443,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzC"
     },
     {
       "id": "g11yejjq3f",
@@ -4105,11 +4227,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1367,
-      "version": 1,
-      "versionNonce": 1368,
+      "version": 2,
+      "versionNonce": 871885301,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "(<*>) :: f (a -> b) -> f a -> f b\npure  :: a -> f a                 -- para Maybe: pure 4 = Just 4\n\nJust (+3) <*> Just 2              -- Just 5\n(+) <$> Just 5 <*> Just 3         -- Just 8   (primero da Just (+5), después le aplica el 3)\n[(*2), (+3)] <*> [1, 2, 3]        -- [2,4,6,4,5,6]   (cada función con cada valor)",
@@ -4120,7 +4242,8 @@
       "containerId": null,
       "originalText": "(<*>) :: f (a -> b) -> f a -> f b\npure  :: a -> f a                 -- para Maybe: pure 4 = Just 4\n\nJust (+3) <*> Just 2              -- Just 5\n(+) <$> Just 5 <*> Just 3         -- Just 8   (primero da Just (+5), después le aplica el 3)\n[(*2), (+3)] <*> [1, 2, 3]        -- [2,4,6,4,5,6]   (cada función con cada valor)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzD"
     },
     {
       "id": "g121oq4t8f",
@@ -4143,8 +4266,8 @@
         "type": 3
       },
       "seed": 1370,
-      "version": 1,
-      "versionNonce": 1371,
+      "version": 2,
+      "versionNonce": 390831067,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4152,9 +4275,10 @@
           "id": "g1243jhwqa"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzE"
     },
     {
       "id": "g1243jhwqa",
@@ -4175,11 +4299,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1373,
-      "version": 1,
-      "versionNonce": 1374,
+      "version": 2,
+      "versionNonce": 162587477,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Monad",
@@ -4190,7 +4314,8 @@
       "containerId": "g121oq4t8f",
       "originalText": "Monad",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzF"
     },
     {
       "id": "g127mwqcjs",
@@ -4211,13 +4336,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1376,
-      "version": 1,
-      "versionNonce": 1377,
+      "version": 2,
+      "versionNonce": 1354852475,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzG"
     },
     {
       "id": "g12afmobn8",
@@ -4238,11 +4364,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1379,
-      "version": 1,
-      "versionNonce": 1380,
+      "version": 2,
+      "versionNonce": 616804533,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "class Monad m where\n    (>>=) :: m a -> (a -> m b) -> m b\n\nhalf x = if even x then Just (x `div` 2) else Nothing    -- devuelve un Maybe: no se le puede pasar Just 4 directo\n\nJust 4  >>= half      -- Just 2\nJust 3  >>= half      -- Nothing\nNothing >>= half      -- Nothing   (si el paso anterior falló, half ni se ejecuta)\n\ninstance Monad Maybe where\n    Nothing  >>= func = Nothing\n    Just val >>= func = func val",
@@ -4253,7 +4379,8 @@
       "containerId": null,
       "originalText": "class Monad m where\n    (>>=) :: m a -> (a -> m b) -> m b\n\nhalf x = if even x then Just (x `div` 2) else Nothing    -- devuelve un Maybe: no se le puede pasar Just 4 directo\n\nJust 4  >>= half      -- Just 2\nJust 3  >>= half      -- Nothing\nNothing >>= half      -- Nothing   (si el paso anterior falló, half ni se ejecuta)\n\ninstance Monad Maybe where\n    Nothing  >>= func = Nothing\n    Just val >>= func = func val",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzH"
     },
     {
       "id": "g12dv1exkj",
@@ -4276,8 +4403,8 @@
         "type": 3
       },
       "seed": 1382,
-      "version": 1,
-      "versionNonce": 1383,
+      "version": 2,
+      "versionNonce": 1058316571,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4285,9 +4412,10 @@
           "id": "g12g0kyp6s"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzI"
     },
     {
       "id": "g12g0kyp6s",
@@ -4308,11 +4436,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1385,
-      "version": 1,
-      "versionNonce": 1386,
+      "version": 2,
+      "versionNonce": 1658180117,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "IO es\nuna mónada",
@@ -4323,7 +4451,8 @@
       "containerId": "g12dv1exkj",
       "originalText": "IO es\nuna mónada",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzJ"
     },
     {
       "id": "g12jg2sriq",
@@ -4344,11 +4473,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1388,
-      "version": 1,
-      "versionNonce": 1389,
+      "version": 2,
+      "versionNonce": 1001899451,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Una mónada es una forma de ENCADENAR cómputos con un \"contexto\" (acá, un efecto). Tiene return\n(envolver un valor) y >>= (pasar el resultado de una acción a la siguiente). Eso permite escribir\ncódigo secuencial con do, que es AZÚCAR SINTÁCTICA para >>=.",
@@ -4359,7 +4488,8 @@
       "containerId": null,
       "originalText": "Una mónada es una forma de ENCADENAR cómputos con un \"contexto\" (acá, un efecto). Tiene return\n(envolver un valor) y >>= (pasar el resultado de una acción a la siguiente). Eso permite escribir\ncódigo secuencial con do, que es AZÚCAR SINTÁCTICA para >>=.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzK"
     },
     {
       "id": "g12m75yzql",
@@ -4380,11 +4510,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1391,
-      "version": 1,
-      "versionNonce": 1392,
+      "version": 2,
+      "versionNonce": 1356646261,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Con do",
@@ -4395,7 +4525,8 @@
       "containerId": null,
       "originalText": "Con do",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzL"
     },
     {
       "id": "g12prbebyo",
@@ -4416,13 +4547,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1394,
-      "version": 1,
-      "versionNonce": 1395,
+      "version": 2,
+      "versionNonce": 1305302619,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzM"
     },
     {
       "id": "g12sb89094",
@@ -4443,11 +4575,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1397,
-      "version": 1,
-      "versionNonce": 1398,
+      "version": 2,
+      "versionNonce": 1092489429,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "main :: IO ()\nmain = do\n  putStrLn \"¿Cómo te llamás?\"   -- :: IO ()\n  nombre <- getLine             -- :: IO String\n  putStrLn (\"Hola \" ++ nombre)  -- :: IO ()",
@@ -4458,7 +4590,8 @@
       "containerId": null,
       "originalText": "main :: IO ()\nmain = do\n  putStrLn \"¿Cómo te llamás?\"   -- :: IO ()\n  nombre <- getLine             -- :: IO String\n  putStrLn (\"Hola \" ++ nombre)  -- :: IO ()",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzN"
     },
     {
       "id": "g12vstm9rn",
@@ -4479,11 +4612,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1400,
-      "version": 1,
-      "versionNonce": 1401,
+      "version": 2,
+      "versionNonce": 1948766971,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Sin azúcar",
@@ -4494,7 +4627,8 @@
       "containerId": null,
       "originalText": "Sin azúcar",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzO"
     },
     {
       "id": "g12yz0m4dd",
@@ -4515,13 +4649,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1403,
-      "version": 1,
-      "versionNonce": 1404,
+      "version": 2,
+      "versionNonce": 556740149,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzP"
     },
     {
       "id": "g131gpud6m",
@@ -4542,11 +4677,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1406,
-      "version": 1,
-      "versionNonce": 1407,
+      "version": 2,
+      "versionNonce": 793361307,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "main :: IO ()\nmain =\n  putStrLn \"¿Cómo te llamás?\" >>\n  (getLine >>= \\nombre ->\n     putStrLn (\"Hola \" ++ nombre))",
@@ -4557,7 +4692,8 @@
       "containerId": null,
       "originalText": "main :: IO ()\nmain =\n  putStrLn \"¿Cómo te llamás?\" >>\n  (getLine >>= \\nombre ->\n     putStrLn (\"Hola \" ++ nombre))",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzQ"
     },
     {
       "id": "g134oa0s0c",
@@ -4578,11 +4714,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1409,
-      "version": 1,
-      "versionNonce": 1410,
+      "version": 2,
+      "versionNonce": 267755413,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "• a >> b: ejecuta a, DESCARTA su resultado y ejecuta b (líneas sin <-).\n• a >>= f: ejecuta a, toma el valor que produjo y SE LO PASA a f (líneas con <-).\n\"IO es una mónada\" = IO tiene la interfaz para componer acciones EN ORDEN, manteniendo el control del\nefecto dentro del tipo.",
@@ -4593,7 +4729,8 @@
       "containerId": null,
       "originalText": "• a >> b: ejecuta a, DESCARTA su resultado y ejecuta b (líneas sin <-).\n• a >>= f: ejecuta a, toma el valor que produjo y SE LO PASA a f (líneas con <-).\n\"IO es una mónada\" = IO tiene la interfaz para componer acciones EN ORDEN, manteniendo el control del\nefecto dentro del tipo.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzR"
     },
     {
       "id": "g137y9pekp",
@@ -4614,11 +4751,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1412,
-      "version": 1,
-      "versionNonce": 1413,
+      "version": 2,
+      "versionNonce": 1264947259,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Evaluar putStrLn \"hola\" imprime?",
@@ -4629,7 +4766,8 @@
       "containerId": null,
       "originalText": "¿Evaluar putStrLn \"hola\" imprime?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzS"
     },
     {
       "id": "g13abbkwl1",
@@ -4652,13 +4790,14 @@
         "type": 3
       },
       "seed": 1415,
-      "version": 1,
-      "versionNonce": 1416,
+      "version": 2,
+      "versionNonce": 866575605,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzT"
     },
     {
       "id": "g13dhrfv9f",
@@ -4679,11 +4818,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1418,
-      "version": 1,
-      "versionNonce": 1419,
+      "version": 2,
+      "versionNonce": 1784533211,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "No: produce una acción IO () que el runtime\nejecuta después.",
@@ -4694,7 +4833,8 @@
       "containerId": null,
       "originalText": "No: produce una acción IO () que el runtime\nejecuta después.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzU"
     },
     {
       "id": "g13gx5qd9l",
@@ -4717,11 +4857,11 @@
         "type": 3
       },
       "seed": 1421,
-      "version": 1,
-      "versionNonce": 1422,
+      "version": 2,
+      "versionNonce": 1338539605,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -4739,7 +4879,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YzV"
     },
     {
       "id": "g13jmqk0qw",
@@ -4760,11 +4901,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1424,
-      "version": 1,
-      "versionNonce": 1425,
+      "version": 2,
+      "versionNonce": 1304755579,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Cuándo uso Applicative y cuándo Monad?",
@@ -4775,7 +4916,8 @@
       "containerId": null,
       "originalText": "¿Cuándo uso Applicative y cuándo Monad?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzW"
     },
     {
       "id": "g13mxclzap",
@@ -4798,13 +4940,14 @@
         "type": 3
       },
       "seed": 1427,
-      "version": 1,
-      "versionNonce": 1428,
+      "version": 2,
+      "versionNonce": 456125365,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "YzX"
     },
     {
       "id": "g13pvrophs",
@@ -4825,11 +4968,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1430,
-      "version": 1,
-      "versionNonce": 1431,
+      "version": 2,
+      "versionNonce": 1625134619,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Applicative: pasos independientes. Monad: el\npaso siguiente depende del resultado del\nanterior.",
@@ -4840,7 +4983,8 @@
       "containerId": null,
       "originalText": "Applicative: pasos independientes. Monad: el\npaso siguiente depende del resultado del\nanterior.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "YzY"
     },
     {
       "id": "g13sh16hlf",
@@ -4863,11 +5007,11 @@
         "type": 3
       },
       "seed": 1433,
-      "version": 1,
-      "versionNonce": 1434,
+      "version": 2,
+      "versionNonce": 1443015957,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -4885,7 +5029,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "YzZ"
     },
     {
       "id": "g13vdyin53",
@@ -4908,8 +5053,8 @@
         "type": 3
       },
       "seed": 1436,
-      "version": 1,
-      "versionNonce": 1437,
+      "version": 2,
+      "versionNonce": 43653819,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4917,9 +5062,10 @@
           "id": "g13yc13tcf"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yza"
     },
     {
       "id": "g13yc13tcf",
@@ -4940,11 +5086,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1439,
-      "version": 1,
-      "versionNonce": 1440,
+      "version": 2,
+      "versionNonce": 532038261,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "4. Estado mutable y concurrencia: IORef y MVar",
@@ -4955,7 +5101,8 @@
       "containerId": "g13vdyin53",
       "originalText": "4. Estado mutable y concurrencia: IORef y MVar",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzb"
     },
     {
       "id": "g1411x4l3b",
@@ -4978,8 +5125,8 @@
         "type": 3
       },
       "seed": 1442,
-      "version": 1,
-      "versionNonce": 1443,
+      "version": 2,
+      "versionNonce": 261950299,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4987,9 +5134,10 @@
           "id": "g144n26jwb"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzc"
     },
     {
       "id": "g144n26jwb",
@@ -5010,11 +5158,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1445,
-      "version": 1,
-      "versionNonce": 1446,
+      "version": 2,
+      "versionNonce": 219163605,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "IORef",
@@ -5025,7 +5173,8 @@
       "containerId": "g1411x4l3b",
       "originalText": "IORef",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzd"
     },
     {
       "id": "g1475hf09y",
@@ -5046,11 +5195,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1448,
-      "version": 1,
-      "versionNonce": 1449,
+      "version": 2,
+      "versionNonce": 741926907,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Para una variable mutable se usa IORef: una REFERENCIA a una posición de memoria (un puntero). Con un\nsolo thread funciona perfecto; con varios, no se sabe cuál escribe primero → CONDICIÓN DE CARRERA.\nIORef NO es seguro entre threads.",
@@ -5061,7 +5210,8 @@
       "containerId": null,
       "originalText": "Para una variable mutable se usa IORef: una REFERENCIA a una posición de memoria (un puntero). Con un\nsolo thread funciona perfecto; con varios, no se sabe cuál escribe primero → CONDICIÓN DE CARRERA.\nIORef NO es seguro entre threads.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yze"
     },
     {
       "id": "g14ae9axop",
@@ -5084,8 +5234,8 @@
         "type": 3
       },
       "seed": 1451,
-      "version": 1,
-      "versionNonce": 1452,
+      "version": 2,
+      "versionNonce": 2116413749,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5093,9 +5243,10 @@
           "id": "g14dhlojpw"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzf"
     },
     {
       "id": "g14dhlojpw",
@@ -5116,11 +5267,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1454,
-      "version": 1,
-      "versionNonce": 1455,
+      "version": 2,
+      "versionNonce": 1315975323,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "MVar",
@@ -5131,7 +5282,8 @@
       "containerId": "g14ae9axop",
       "originalText": "MVar",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzg"
     },
     {
       "id": "g14ghqexva",
@@ -5152,11 +5304,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1457,
-      "version": 1,
-      "versionNonce": 1458,
+      "version": 2,
+      "versionNonce": 878508693,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "MVar: variable mutable que puede estar LLENA o VACÍA. takeMVar saca el valor y BLOQUEA si está vacía;\nputMVar lo pone y BLOQUEA si está llena. Sirve para PASAR RESULTADOS entre threads y como LOCK. Es como\nuna promesa, pero bloquea hasta tener el valor.",
@@ -5167,7 +5319,8 @@
       "containerId": null,
       "originalText": "MVar: variable mutable que puede estar LLENA o VACÍA. takeMVar saca el valor y BLOQUEA si está vacía;\nputMVar lo pone y BLOQUEA si está llena. Sirve para PASAR RESULTADOS entre threads y como LOCK. Es como\nuna promesa, pero bloquea hasta tener el valor.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzh"
     },
     {
       "id": "g14joj1nwq",
@@ -5188,13 +5341,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1460,
-      "version": 1,
-      "versionNonce": 1461,
+      "version": 2,
+      "versionNonce": 133522747,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzi"
     },
     {
       "id": "g14mx6a3k6",
@@ -5215,11 +5369,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1463,
-      "version": 1,
-      "versionNonce": 1464,
+      "version": 2,
+      "versionNonce": 678092789,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "fibThread :: Int -> MVar Int -> IO ()\nfibThread n mvar = putMVar mvar (fib n)\n\nmain = do\n  fibResult <- newEmptyMVar\n  forkIO (fibThread 30 fibResult)      -- el cálculo corre en otro thread\n  a <- takeMVar fibResult              -- se bloquea hasta que el otro thread ponga el resultado\n  putStrLn (\"fib result: \" ++ show a)",
@@ -5230,7 +5384,8 @@
       "containerId": null,
       "originalText": "fibThread :: Int -> MVar Int -> IO ()\nfibThread n mvar = putMVar mvar (fib n)\n\nmain = do\n  fibResult <- newEmptyMVar\n  forkIO (fibThread 30 fibResult)      -- el cálculo corre en otro thread\n  a <- takeMVar fibResult              -- se bloquea hasta que el otro thread ponga el resultado\n  putStrLn (\"fib result: \" ++ show a)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzj"
     },
     {
       "id": "g14py9bmbp",
@@ -5253,13 +5408,14 @@
         "type": 3
       },
       "seed": 1466,
-      "version": 1,
-      "versionNonce": 1467,
+      "version": 2,
+      "versionNonce": 271255003,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzk"
     },
     {
       "id": "g14s2yuddx",
@@ -5280,11 +5436,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1469,
-      "version": 1,
-      "versionNonce": 1470,
+      "version": 2,
+      "versionNonce": 542447957,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Con IORef y MVar volvemos a threads + locks…",
@@ -5295,7 +5451,8 @@
       "containerId": null,
       "originalText": "Con IORef y MVar volvemos a threads + locks…",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzl"
     },
     {
       "id": "g14vu9xcm5",
@@ -5316,11 +5473,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1472,
-      "version": 1,
-      "versionNonce": 1473,
+      "version": 2,
+      "versionNonce": 237212283,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "• Carreras por locks OLVIDADOS.\n• DEADLOCKS por locks tomados en orden inconsistente.\n• CORRUPCIÓN del estado si hay una excepción no capturada en medio de una sección crítica.\n• NOTIFICACIONES OMITIDAS: un thread espera un aviso que nunca llega.\n→ Para eso existe STM.",
@@ -5331,7 +5488,8 @@
       "containerId": null,
       "originalText": "• Carreras por locks OLVIDADOS.\n• DEADLOCKS por locks tomados en orden inconsistente.\n• CORRUPCIÓN del estado si hay una excepción no capturada en medio de una sección crítica.\n• NOTIFICACIONES OMITIDAS: un thread espera un aviso que nunca llega.\n→ Para eso existe STM.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzm"
     },
     {
       "id": "g14yxz1vt6",
@@ -5352,11 +5510,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1475,
-      "version": 1,
-      "versionNonce": 1476,
+      "version": 2,
+      "versionNonce": 91301557,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Por qué IORef no alcanza con varios threads?",
@@ -5367,7 +5525,8 @@
       "containerId": null,
       "originalText": "¿Por qué IORef no alcanza con varios threads?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzn"
     },
     {
       "id": "g151x2boai",
@@ -5390,13 +5549,14 @@
         "type": 3
       },
       "seed": 1478,
-      "version": 1,
-      "versionNonce": 1479,
+      "version": 2,
+      "versionNonce": 581012251,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzo"
     },
     {
       "id": "g1546gp1zc",
@@ -5417,11 +5577,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1481,
-      "version": 1,
-      "versionNonce": 1482,
+      "version": 2,
+      "versionNonce": 2053408789,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "No es seguro entre threads: no se sabe quién\nescribe primero (condición de carrera).",
@@ -5432,7 +5592,8 @@
       "containerId": null,
       "originalText": "No es seguro entre threads: no se sabe quién\nescribe primero (condición de carrera).",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzp"
     },
     {
       "id": "g1574ewrgb",
@@ -5455,11 +5616,11 @@
         "type": 3
       },
       "seed": 1484,
-      "version": 1,
-      "versionNonce": 1485,
+      "version": 2,
+      "versionNonce": 840396731,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -5477,7 +5638,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "Yzq"
     },
     {
       "id": "g15agws7c1",
@@ -5500,8 +5662,8 @@
         "type": 3
       },
       "seed": 1487,
-      "version": 1,
-      "versionNonce": 1488,
+      "version": 2,
+      "versionNonce": 824491381,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5509,9 +5671,10 @@
           "id": "g15dwlgl6j"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzr"
     },
     {
       "id": "g15dwlgl6j",
@@ -5532,11 +5695,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1490,
-      "version": 1,
-      "versionNonce": 1491,
+      "version": 2,
+      "versionNonce": 1856487515,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "5. STM: Software Transactional Memory",
@@ -5547,7 +5710,8 @@
       "containerId": "g15agws7c1",
       "originalText": "5. STM: Software Transactional Memory",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzs"
     },
     {
       "id": "g15g99u0jq",
@@ -5570,8 +5734,8 @@
         "type": 3
       },
       "seed": 1493,
-      "version": 1,
-      "versionNonce": 1494,
+      "version": 2,
+      "versionNonce": 16205525,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5579,9 +5743,10 @@
           "id": "g15j36lan1"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzt"
     },
     {
       "id": "g15j36lan1",
@@ -5602,11 +5767,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1496,
-      "version": 1,
-      "versionNonce": 1497,
+      "version": 2,
+      "versionNonce": 572849403,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "La idea",
@@ -5617,7 +5782,8 @@
       "containerId": "g15g99u0jq",
       "originalText": "La idea",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzu"
     },
     {
       "id": "g15m5yx5ur",
@@ -5638,11 +5804,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1499,
-      "version": 1,
-      "versionNonce": 1500,
+      "version": 2,
+      "versionNonce": 1014080565,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "STM es otro MODELO DE CONCURRENCIA, distinto de los threads con locks y de las corrutinas. Ejecuta un\nbloque de operaciones sobre estado compartido como una TRANSACCIÓN: TODO O NADA, como la A de ACID en\nlas bases de datos.",
@@ -5653,7 +5819,8 @@
       "containerId": null,
       "originalText": "STM es otro MODELO DE CONCURRENCIA, distinto de los threads con locks y de las corrutinas. Ejecuta un\nbloque de operaciones sobre estado compartido como una TRANSACCIÓN: TODO O NADA, como la A de ACID en\nlas bases de datos.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzv"
     },
     {
       "id": "g15pyi6kho",
@@ -5676,13 +5843,14 @@
         "type": 3
       },
       "seed": 1502,
-      "version": 1,
-      "versionNonce": 1503,
+      "version": 2,
+      "versionNonce": 940680603,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzw"
     },
     {
       "id": "g15slk85ac",
@@ -5703,11 +5871,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1505,
-      "version": 1,
-      "versionNonce": 1506,
+      "version": 2,
+      "versionNonce": 1199134101,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "A · Atomicity",
@@ -5718,7 +5886,8 @@
       "containerId": null,
       "originalText": "A · Atomicity",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzx"
     },
     {
       "id": "g15vc3h5sl",
@@ -5739,11 +5908,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1508,
-      "version": 1,
-      "versionNonce": 1509,
+      "version": 2,
+      "versionNonce": 127941179,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Cada transacción se\nconfirma entera.",
@@ -5754,7 +5923,8 @@
       "containerId": null,
       "originalText": "Cada transacción se\nconfirma entera.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Yzy"
     },
     {
       "id": "g15y2k0i9t",
@@ -5777,13 +5947,14 @@
         "type": 3
       },
       "seed": 1511,
-      "version": 1,
-      "versionNonce": 1512,
+      "version": 2,
+      "versionNonce": 1833163509,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Yzz"
     },
     {
       "id": "g161z5k593",
@@ -5804,11 +5975,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1514,
-      "version": 1,
-      "versionNonce": 1515,
+      "version": 2,
+      "versionNonce": 1572027099,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "C · Consistency",
@@ -5819,7 +5990,8 @@
       "containerId": null,
       "originalText": "C · Consistency",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z0"
     },
     {
       "id": "g164qgwyz0",
@@ -5840,11 +6012,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1517,
-      "version": 1,
-      "versionNonce": 1518,
+      "version": 2,
+      "versionNonce": 1985393749,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Los datos quedan\nconsistentes al terminar.",
@@ -5855,7 +6027,8 @@
       "containerId": null,
       "originalText": "Los datos quedan\nconsistentes al terminar.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z1"
     },
     {
       "id": "g1670su4lo",
@@ -5878,13 +6051,14 @@
         "type": 3
       },
       "seed": 1520,
-      "version": 1,
-      "versionNonce": 1521,
+      "version": 2,
+      "versionNonce": 1188898683,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Z2"
     },
     {
       "id": "g16a3bfrbk",
@@ -5905,11 +6079,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1523,
-      "version": 1,
-      "versionNonce": 1524,
+      "version": 2,
+      "versionNonce": 2122801589,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "I · Isolation",
@@ -5920,7 +6094,8 @@
       "containerId": null,
       "originalText": "I · Isolation",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z3"
     },
     {
       "id": "g16df3fdu6",
@@ -5941,11 +6116,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1526,
-      "version": 1,
-      "versionNonce": 1527,
+      "version": 2,
+      "versionNonce": 425754651,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Las transacciones ocurren\nsin interferirse.",
@@ -5956,7 +6131,8 @@
       "containerId": null,
       "originalText": "Las transacciones ocurren\nsin interferirse.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z4"
     },
     {
       "id": "g16ggz5fxu",
@@ -5979,13 +6155,14 @@
         "type": 3
       },
       "seed": 1529,
-      "version": 1,
-      "versionNonce": 1530,
+      "version": 2,
+      "versionNonce": 184247061,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Z5"
     },
     {
       "id": "g16j86vh24",
@@ -6006,11 +6183,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1532,
-      "version": 1,
-      "versionNonce": 1533,
+      "version": 2,
+      "versionNonce": 1060095163,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "D · Durability",
@@ -6021,7 +6198,8 @@
       "containerId": null,
       "originalText": "D · Durability",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z6"
     },
     {
       "id": "g16mijmbfh",
@@ -6042,11 +6220,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1535,
-      "version": 1,
-      "versionNonce": 1536,
+      "version": 2,
+      "versionNonce": 1613248629,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Lo confirmado queda\nregistrado.",
@@ -6057,7 +6235,8 @@
       "containerId": null,
       "originalText": "Lo confirmado queda\nregistrado.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z7"
     },
     {
       "id": "g16p4yz9qn",
@@ -6078,13 +6257,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1538,
-      "version": 1,
-      "versionNonce": 1539,
+      "version": 2,
+      "versionNonce": 1072526683,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Z8"
     },
     {
       "id": "g16stkljfy",
@@ -6105,11 +6285,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1541,
-      "version": 1,
-      "versionNonce": 1542,
+      "version": 2,
+      "versionNonce": 399729109,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Lock",
@@ -6120,7 +6300,8 @@
       "containerId": null,
       "originalText": "Lock",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Z9"
     },
     {
       "id": "g16vu1cb98",
@@ -6141,13 +6322,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1544,
-      "version": 1,
-      "versionNonce": 1545,
+      "version": 2,
+      "versionNonce": 183243259,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZA"
     },
     {
       "id": "g16y0i8iuz",
@@ -6168,11 +6350,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1547,
-      "version": 1,
-      "versionNonce": 1548,
+      "version": 2,
+      "versionNonce": 1997692725,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Cómo trabaja",
@@ -6183,7 +6365,8 @@
       "containerId": null,
       "originalText": "Cómo trabaja",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZB"
     },
     {
       "id": "g171ducne8",
@@ -6204,13 +6387,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1550,
-      "version": 1,
-      "versionNonce": 1551,
+      "version": 2,
+      "versionNonce": 19798683,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZC"
     },
     {
       "id": "g174xf1d82",
@@ -6231,11 +6415,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1553,
-      "version": 1,
-      "versionNonce": 1554,
+      "version": 2,
+      "versionNonce": 72003733,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "PESIMISTA (mutex)",
@@ -6246,7 +6430,8 @@
       "containerId": null,
       "originalText": "PESIMISTA (mutex)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZD"
     },
     {
       "id": "g177xkk89j",
@@ -6267,13 +6452,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1556,
-      "version": 1,
-      "versionNonce": 1557,
+      "version": 2,
+      "versionNonce": 1063653179,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZE"
     },
     {
       "id": "g17aeon3ew",
@@ -6294,11 +6480,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1559,
-      "version": 1,
-      "versionNonce": 1560,
+      "version": 2,
+      "versionNonce": 1563547125,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Pide permiso ANTES de entrar a la sección crítica: \"siempre está dispuesto a lo\npeor\".",
@@ -6309,7 +6495,8 @@
       "containerId": null,
       "originalText": "Pide permiso ANTES de entrar a la sección crítica: \"siempre está dispuesto a lo\npeor\".",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZF"
     },
     {
       "id": "g17du98w8w",
@@ -6330,13 +6517,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1562,
-      "version": 1,
-      "versionNonce": 1563,
+      "version": 2,
+      "versionNonce": 670461915,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZG"
     },
     {
       "id": "g17goo9vff",
@@ -6357,11 +6545,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1565,
-      "version": 1,
-      "versionNonce": 1566,
+      "version": 2,
+      "versionNonce": 1288523605,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "OPTIMISTA (STM)",
@@ -6372,7 +6560,8 @@
       "containerId": null,
       "originalText": "OPTIMISTA (STM)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZH"
     },
     {
       "id": "g17jhlfv4e",
@@ -6393,20 +6582,21 @@
       "frameId": null,
       "roundness": null,
       "seed": 1568,
-      "version": 1,
-      "versionNonce": 1569,
+      "version": 2,
+      "versionNonce": 754039931,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZI"
     },
     {
       "id": "g17mlm8pu5",
       "type": "text",
-      "x": 341,
+      "x": 340.1319274902344,
       "y": 5290.5,
-      "width": 756.0000000000001,
+      "width": 689.9396362304688,
       "height": 67.5,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -6420,11 +6610,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1571,
-      "version": 1,
-      "versionNonce": 1572,
+      "version": 4,
+      "versionNonce": 1369527509,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795622633942,
       "link": null,
       "locked": false,
       "text": "Ejecuta suponiendo que no habrá conflicto y VERIFICA AL FINAL si el trabajo\nsigue siendo válido. Ideal para operaciones CHICAS Y CORTAS sobre estado\ncompartido, donde un mutex agrega más complejidad de la que resuelve.",
@@ -6435,7 +6625,8 @@
       "containerId": null,
       "originalText": "Ejecuta suponiendo que no habrá conflicto y VERIFICA AL FINAL si el trabajo\nsigue siendo válido. Ideal para operaciones CHICAS Y CORTAS sobre estado\ncompartido, donde un mutex agrega más complejidad de la que resuelve.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZJ"
     },
     {
       "id": "g17p12gfsg",
@@ -6458,8 +6649,8 @@
         "type": 3
       },
       "seed": 1574,
-      "version": 1,
-      "versionNonce": 1575,
+      "version": 2,
+      "versionNonce": 1511683355,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6467,9 +6658,10 @@
           "id": "g17sjqzmx9"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZK"
     },
     {
       "id": "g17sjqzmx9",
@@ -6490,11 +6682,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1577,
-      "version": 1,
-      "versionNonce": 1578,
+      "version": 2,
+      "versionNonce": 1120353813,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "TVar y\natomically",
@@ -6505,7 +6697,8 @@
       "containerId": "g17p12gfsg",
       "originalText": "TVar y\natomically",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZL"
     },
     {
       "id": "g17v91us0a",
@@ -6526,11 +6719,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1580,
-      "version": 1,
-      "versionNonce": 1581,
+      "version": 2,
+      "versionNonce": 518199739,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Las variables compartidas pasan a ser TVar (transaccionales, parecidas a un IORef) y sus operaciones\ndevuelven STM a en vez de IO a. STM es una acción MÁS RESTRINGIDA que IO: adentro solo se leen y\nescriben TVars. ATOMICALLY convierte una transacción STM en una acción IO ejecutable y marca su\nFRONTERA: todo lo de adentro se ve como UNA operación. Dos atomically separados permiten que otro\nthread vea el estado entre medio.",
@@ -6541,7 +6734,8 @@
       "containerId": null,
       "originalText": "Las variables compartidas pasan a ser TVar (transaccionales, parecidas a un IORef) y sus operaciones\ndevuelven STM a en vez de IO a. STM es una acción MÁS RESTRINGIDA que IO: adentro solo se leen y\nescriben TVars. ATOMICALLY convierte una transacción STM en una acción IO ejecutable y marca su\nFRONTERA: todo lo de adentro se ve como UNA operación. Dos atomically separados permiten que otro\nthread vea el estado entre medio.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZM"
     },
     {
       "id": "g17yzh6vjl",
@@ -6562,13 +6756,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1583,
-      "version": 1,
-      "versionNonce": 1584,
+      "version": 2,
+      "versionNonce": 130069365,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZN"
     },
     {
       "id": "g181xe1xc7",
@@ -6589,11 +6784,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1586,
-      "version": 1,
-      "versionNonce": 1587,
+      "version": 2,
+      "versionNonce": 1483614811,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "readTVar   :: TVar a -> STM a\nwriteTVar  :: TVar a -> a -> STM ()\natomically :: STM a -> IO a\n\ntype Counter = TVar Int\nincTVar :: Counter -> STM ()\nincTVar counter = do\n    val <- readTVar counter\n    writeTVar counter (val + 1)",
@@ -6604,7 +6799,8 @@
       "containerId": null,
       "originalText": "readTVar   :: TVar a -> STM a\nwriteTVar  :: TVar a -> a -> STM ()\natomically :: STM a -> IO a\n\ntype Counter = TVar Int\nincTVar :: Counter -> STM ()\nincTVar counter = do\n    val <- readTVar counter\n    writeTVar counter (val + 1)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZO"
     },
     {
       "id": "g184sxwico",
@@ -6627,13 +6823,14 @@
         "type": 3
       },
       "seed": 1589,
-      "version": 1,
-      "versionNonce": 1590,
+      "version": 2,
+      "versionNonce": 1285848277,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZP"
     },
     {
       "id": "g1873nzxla",
@@ -6654,11 +6851,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1592,
-      "version": 1,
-      "versionNonce": 1593,
+      "version": 2,
+      "versionNonce": 462300923,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Atomicidad",
@@ -6669,7 +6866,8 @@
       "containerId": null,
       "originalText": "Atomicidad",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZQ"
     },
     {
       "id": "g18astu8v0",
@@ -6690,11 +6888,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1595,
-      "version": 1,
-      "versionNonce": 1596,
+      "version": 2,
+      "versionNonce": 1225267765,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Los cambios se hacen visibles a los demás threads\nrecién AL SALIR del bloque, todos juntos. Nunca se\nve un estado intermedio.",
@@ -6705,7 +6903,8 @@
       "containerId": null,
       "originalText": "Los cambios se hacen visibles a los demás threads\nrecién AL SALIR del bloque, todos juntos. Nunca se\nve un estado intermedio.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZR"
     },
     {
       "id": "g18djeej5f",
@@ -6728,13 +6927,14 @@
         "type": 3
       },
       "seed": 1598,
-      "version": 1,
-      "versionNonce": 1599,
+      "version": 2,
+      "versionNonce": 1053134747,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZS"
     },
     {
       "id": "g18ggko07b",
@@ -6755,11 +6955,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1601,
-      "version": 1,
-      "versionNonce": 1602,
+      "version": 2,
+      "versionNonce": 634456981,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Aislamiento",
@@ -6770,7 +6970,8 @@
       "containerId": null,
       "originalText": "Aislamiento",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZT"
     },
     {
       "id": "g18jqsr526",
@@ -6791,11 +6992,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1604,
-      "version": 1,
-      "versionNonce": 1605,
+      "version": 2,
+      "versionNonce": 608625723,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Mientras dura, sus cambios quedan en un LOG LOCAL y\nla transacción no ve los cambios de otros threads.",
@@ -6806,7 +7007,8 @@
       "containerId": null,
       "originalText": "Mientras dura, sus cambios quedan en un LOG LOCAL y\nla transacción no ve los cambios de otros threads.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZU"
     },
     {
       "id": "g18mj5nhjc",
@@ -6829,8 +7031,8 @@
         "type": 3
       },
       "seed": 1607,
-      "version": 1,
-      "versionNonce": 1608,
+      "version": 2,
+      "versionNonce": 1395970293,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6838,9 +7040,10 @@
           "id": "g18ppu1jdc"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZV"
     },
     {
       "id": "g18ppu1jdc",
@@ -6861,11 +7064,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1610,
-      "version": 1,
-      "versionNonce": 1611,
+      "version": 2,
+      "versionNonce": 1140106459,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Por dentro",
@@ -6876,7 +7079,8 @@
       "containerId": "g18mj5nhjc",
       "originalText": "Por dentro",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZW"
     },
     {
       "id": "g18ste35mf",
@@ -6899,8 +7103,8 @@
         "type": 3
       },
       "seed": 1613,
-      "version": 1,
-      "versionNonce": 1614,
+      "version": 2,
+      "versionNonce": 515435093,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6908,9 +7112,10 @@
           "id": "g18v4aovt6"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ZX"
     },
     {
       "id": "g18v4aovt6",
@@ -6931,11 +7136,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1616,
-      "version": 1,
-      "versionNonce": 1617,
+      "version": 2,
+      "versionNonce": 1969312123,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "1. LECTURA: anota en el\nlog privado qué TVar leyó\ny qué valor vio",
@@ -6946,7 +7151,8 @@
       "containerId": "g18ste35mf",
       "originalText": "1. LECTURA: anota en el\nlog privado qué TVar leyó\ny qué valor vio",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ZY"
     },
     {
       "id": "g18yvvn7s3",
@@ -6969,11 +7175,11 @@
         "type": 3
       },
       "seed": 1619,
-      "version": 1,
-      "versionNonce": 1620,
+      "version": 2,
+      "versionNonce": 154326965,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -6991,7 +7197,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "ZZ"
     },
     {
       "id": "g1911yy1hq",
@@ -7014,8 +7221,8 @@
         "type": 3
       },
       "seed": 1622,
-      "version": 1,
-      "versionNonce": 1623,
+      "version": 2,
+      "versionNonce": 2043636251,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7023,9 +7230,10 @@
           "id": "g194ht0far"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Za"
     },
     {
       "id": "g194ht0far",
@@ -7046,11 +7254,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1625,
-      "version": 1,
-      "versionNonce": 1626,
+      "version": 2,
+      "versionNonce": 1556617493,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "2. ESCRITURA TENTATIVA:\nwriteTVar no pisa la TVar,\nla registra en el log\n(los demás ven lo confirmado)",
@@ -7061,7 +7269,8 @@
       "containerId": "g1911yy1hq",
       "originalText": "2. ESCRITURA TENTATIVA:\nwriteTVar no pisa la TVar,\nla registra en el log\n(los demás ven lo confirmado)",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zb"
     },
     {
       "id": "g1978l1sen",
@@ -7084,11 +7293,11 @@
         "type": 3
       },
       "seed": 1628,
-      "version": 1,
-      "versionNonce": 1629,
+      "version": 2,
+      "versionNonce": 1177644731,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -7106,7 +7315,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "Zc"
     },
     {
       "id": "g19amm9dek",
@@ -7129,8 +7339,8 @@
         "type": 3
       },
       "seed": 1631,
-      "version": 1,
-      "versionNonce": 1632,
+      "version": 2,
+      "versionNonce": 49163893,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7138,9 +7348,10 @@
           "id": "g19d1ac5nd"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zd"
     },
     {
       "id": "g19d1ac5nd",
@@ -7161,11 +7372,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1634,
-      "version": 1,
-      "versionNonce": 1635,
+      "version": 2,
+      "versionNonce": 220847963,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "3. VALIDACIÓN: al salir,\n¿alguien modificó lo que leí?",
@@ -7176,7 +7387,8 @@
       "containerId": "g19amm9dek",
       "originalText": "3. VALIDACIÓN: al salir,\n¿alguien modificó lo que leí?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Ze"
     },
     {
       "id": "g19gox2ui6",
@@ -7199,11 +7411,11 @@
         "type": 3
       },
       "seed": 1637,
-      "version": 1,
-      "versionNonce": 1638,
+      "version": 2,
+      "versionNonce": 443193301,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -7221,7 +7433,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "Zf"
     },
     {
       "id": "g19j5p5v7e",
@@ -7244,8 +7457,8 @@
         "type": 3
       },
       "seed": 1640,
-      "version": 1,
-      "versionNonce": 1641,
+      "version": 2,
+      "versionNonce": 151731195,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7253,9 +7466,10 @@
           "id": "g19mztym95"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zg"
     },
     {
       "id": "g19mztym95",
@@ -7276,11 +7490,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1643,
-      "version": 1,
-      "versionNonce": 1644,
+      "version": 2,
+      "versionNonce": 1297274165,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "No → COMMIT: publica\ntodos los cambios juntos.\nSí → descarta el log y\nRE-EJECUTA desde el\nprincipio",
@@ -7291,7 +7505,8 @@
       "containerId": "g19j5p5v7e",
       "originalText": "No → COMMIT: publica\ntodos los cambios juntos.\nSí → descarta el log y\nRE-EJECUTA desde el\nprincipio",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zh"
     },
     {
       "id": "g19pra5l9d",
@@ -7314,13 +7529,14 @@
         "type": 3
       },
       "seed": 1646,
-      "version": 1,
-      "versionNonce": 1647,
+      "version": 2,
+      "versionNonce": 98043035,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zi"
     },
     {
       "id": "g19s4kd6vq",
@@ -7341,11 +7557,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1649,
-      "version": 1,
-      "versionNonce": 1650,
+      "version": 2,
+      "versionNonce": 1728865941,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "STM NO BLOQUEA las TVars durante la transacción: los otros threads pueden seguir leyéndolas y\nescribiéndolas, y el conflicto se detecta recién al confirmar. (GHC puede usar locks muy breves en\nel commit, pero la aplicación nunca toma locks.) Se puede re-ejecutar porque los cambios todavía\nestaban solo en memoria.",
@@ -7356,7 +7572,8 @@
       "containerId": null,
       "originalText": "STM NO BLOQUEA las TVars durante la transacción: los otros threads pueden seguir leyéndolas y\nescribiéndolas, y el conflicto se detecta recién al confirmar. (GHC puede usar locks muy breves en\nel commit, pero la aplicación nunca toma locks.) Se puede re-ejecutar porque los cambios todavía\nestaban solo en memoria.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zj"
     },
     {
       "id": "g19vmj87g2",
@@ -7377,13 +7594,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1652,
-      "version": 1,
-      "versionNonce": 1653,
+      "version": 2,
+      "versionNonce": 725793083,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zk"
     },
     {
       "id": "g19yw8lwz1",
@@ -7404,11 +7622,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1655,
-      "version": 1,
-      "versionNonce": 1656,
+      "version": 2,
+      "versionNonce": 709676021,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Paso",
@@ -7419,7 +7637,8 @@
       "containerId": null,
       "originalText": "Paso",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zl"
     },
     {
       "id": "g1a10akcar",
@@ -7440,13 +7659,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1658,
-      "version": 1,
-      "versionNonce": 1659,
+      "version": 2,
+      "versionNonce": 112056795,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zm"
     },
     {
       "id": "g1a4yjxpwu",
@@ -7467,11 +7687,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1661,
-      "version": 1,
-      "versionNonce": 1662,
+      "version": 2,
+      "versionNonce": 1729725781,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Transacción A",
@@ -7482,7 +7702,8 @@
       "containerId": null,
       "originalText": "Transacción A",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zn"
     },
     {
       "id": "g1a718maf5",
@@ -7503,13 +7724,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1664,
-      "version": 1,
-      "versionNonce": 1665,
+      "version": 2,
+      "versionNonce": 1428940411,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zo"
     },
     {
       "id": "g1aa3ss2wy",
@@ -7530,11 +7752,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1667,
-      "version": 1,
-      "versionNonce": 1668,
+      "version": 2,
+      "versionNonce": 1355289269,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Transacción B",
@@ -7545,7 +7767,8 @@
       "containerId": null,
       "originalText": "Transacción B",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zp"
     },
     {
       "id": "g1adzl9juj",
@@ -7566,13 +7789,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1670,
-      "version": 1,
-      "versionNonce": 1671,
+      "version": 2,
+      "versionNonce": 226451227,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zq"
     },
     {
       "id": "g1agll9l1v",
@@ -7593,11 +7817,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1673,
-      "version": 1,
-      "versionNonce": 1674,
+      "version": 2,
+      "versionNonce": 335410197,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "1",
@@ -7608,7 +7832,8 @@
       "containerId": null,
       "originalText": "1",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zr"
     },
     {
       "id": "g1ajvfspxd",
@@ -7629,13 +7854,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1676,
-      "version": 1,
-      "versionNonce": 1677,
+      "version": 2,
+      "versionNonce": 706397115,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zs"
     },
     {
       "id": "g1ami4kund",
@@ -7656,11 +7882,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1679,
-      "version": 1,
-      "versionNonce": 1680,
+      "version": 2,
+      "versionNonce": 749775221,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Lee el contador en 10",
@@ -7671,7 +7897,8 @@
       "containerId": null,
       "originalText": "Lee el contador en 10",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zt"
     },
     {
       "id": "g1apm6hw4y",
@@ -7692,13 +7919,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1682,
-      "version": 1,
-      "versionNonce": 1683,
+      "version": 2,
+      "versionNonce": 857773147,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zu"
     },
     {
       "id": "g1askxpsu4",
@@ -7719,11 +7947,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1685,
-      "version": 1,
-      "versionNonce": 1686,
+      "version": 2,
+      "versionNonce": 2082845397,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Lee el contador en 10",
@@ -7734,7 +7962,8 @@
       "containerId": null,
       "originalText": "Lee el contador en 10",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zv"
     },
     {
       "id": "g1avk50b9q",
@@ -7755,13 +7984,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1688,
-      "version": 1,
-      "versionNonce": 1689,
+      "version": 2,
+      "versionNonce": 140726523,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zw"
     },
     {
       "id": "g1ayy4tqlb",
@@ -7782,11 +8012,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1691,
-      "version": 1,
-      "versionNonce": 1692,
+      "version": 2,
+      "versionNonce": 519213109,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "2",
@@ -7797,7 +8027,8 @@
       "containerId": null,
       "originalText": "2",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zx"
     },
     {
       "id": "g1b14h8br4",
@@ -7818,13 +8049,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1694,
-      "version": 1,
-      "versionNonce": 1695,
+      "version": 2,
+      "versionNonce": 1801812379,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "Zy"
     },
     {
       "id": "g1b4bvpexn",
@@ -7845,11 +8077,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1697,
-      "version": 1,
-      "versionNonce": 1698,
+      "version": 2,
+      "versionNonce": 50119061,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Confirma el incremento a 11",
@@ -7860,7 +8092,8 @@
       "containerId": null,
       "originalText": "Confirma el incremento a 11",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "Zz"
     },
     {
       "id": "g1b7ddyei5",
@@ -7881,13 +8114,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1700,
-      "version": 1,
-      "versionNonce": 1701,
+      "version": 2,
+      "versionNonce": 1230605883,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a0"
     },
     {
       "id": "g1bal47a4r",
@@ -7908,11 +8142,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1703,
-      "version": 1,
-      "versionNonce": 1704,
+      "version": 2,
+      "versionNonce": 1031390965,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Tiene un 11 tentativo",
@@ -7923,7 +8157,8 @@
       "containerId": null,
       "originalText": "Tiene un 11 tentativo",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a1"
     },
     {
       "id": "g1bdvtsovl",
@@ -7944,13 +8179,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1706,
-      "version": 1,
-      "versionNonce": 1707,
+      "version": 2,
+      "versionNonce": 1159859931,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a2"
     },
     {
       "id": "g1bgbwaloc",
@@ -7971,11 +8207,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1709,
-      "version": 1,
-      "versionNonce": 1710,
+      "version": 2,
+      "versionNonce": 552542293,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "3",
@@ -7986,7 +8222,8 @@
       "containerId": null,
       "originalText": "3",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a3"
     },
     {
       "id": "g1bjqzvs1a",
@@ -8007,13 +8244,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1712,
-      "version": 1,
-      "versionNonce": 1713,
+      "version": 2,
+      "versionNonce": 22117243,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a4"
     },
     {
       "id": "g1bmorbrck",
@@ -8034,11 +8272,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1715,
-      "version": 1,
-      "versionNonce": 1716,
+      "version": 2,
+      "versionNonce": 322063797,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Termina",
@@ -8049,7 +8287,8 @@
       "containerId": null,
       "originalText": "Termina",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a5"
     },
     {
       "id": "g1bp9kaeil",
@@ -8070,13 +8309,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1718,
-      "version": 1,
-      "versionNonce": 1719,
+      "version": 2,
+      "versionNonce": 707417115,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a6"
     },
     {
       "id": "g1bs8zrntj",
@@ -8097,11 +8337,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1721,
-      "version": 1,
-      "versionNonce": 1722,
+      "version": 2,
+      "versionNonce": 594071317,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Detecta que su lectura quedó vieja y REINTENTA",
@@ -8112,7 +8352,8 @@
       "containerId": null,
       "originalText": "Detecta que su lectura quedó vieja y REINTENTA",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a7"
     },
     {
       "id": "g1bv49dc2c",
@@ -8133,13 +8374,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1724,
-      "version": 1,
-      "versionNonce": 1725,
+      "version": 2,
+      "versionNonce": 1067391163,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "a8"
     },
     {
       "id": "g1bydd46k5",
@@ -8160,11 +8402,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1727,
-      "version": 1,
-      "versionNonce": 1728,
+      "version": 2,
+      "versionNonce": 1611146357,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "4",
@@ -8175,7 +8417,8 @@
       "containerId": null,
       "originalText": "4",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "a9"
     },
     {
       "id": "g1c18h0bql",
@@ -8196,49 +8439,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1730,
-      "version": 1,
-      "versionNonce": 1731,
+      "version": 2,
+      "versionNonce": 525486427,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "g1c4ztapix",
-      "type": "text",
-      "x": 124,
-      "y": 6454.25,
-      "width": 0,
-      "height": 21.25,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "roundness": null,
-      "seed": 1733,
-      "version": 1,
-      "versionNonce": 1734,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
-      "text": "",
-      "fontSize": 17,
-      "fontFamily": 5,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "",
-      "autoResize": true,
-      "lineHeight": 1.25
+      "index": "aA"
     },
     {
       "id": "g1c70cuyci",
@@ -8259,13 +8467,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1736,
-      "version": 1,
-      "versionNonce": 1737,
+      "version": 2,
+      "versionNonce": 1318479355,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aC"
     },
     {
       "id": "g1cauitk7g",
@@ -8286,11 +8495,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1739,
-      "version": 1,
-      "versionNonce": 1740,
+      "version": 2,
+      "versionNonce": 1491553077,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Lee 11 y confirma 12",
@@ -8301,7 +8510,8 @@
       "containerId": null,
       "originalText": "Lee 11 y confirma 12",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aD"
     },
     {
       "id": "g1cdm6ci0s",
@@ -8324,13 +8534,14 @@
         "type": 3
       },
       "seed": 1742,
-      "version": 1,
-      "versionNonce": 1743,
+      "version": 2,
+      "versionNonce": 74313371,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aE"
     },
     {
       "id": "g1cg1a1q64",
@@ -8351,11 +8562,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1745,
-      "version": 1,
-      "versionNonce": 1746,
+      "version": 2,
+      "versionNonce": 883039381,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Si los conflictos son frecuentes, el trabajo descartado sale caro: conviene que las transacciones\nsean CORTAS.",
@@ -8366,7 +8577,8 @@
       "containerId": null,
       "originalText": "Si los conflictos son frecuentes, el trabajo descartado sale caro: conviene que las transacciones\nsean CORTAS.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aF"
     },
     {
       "id": "g1cj8p1dpj",
@@ -8389,8 +8601,8 @@
         "type": 3
       },
       "seed": 1748,
-      "version": 1,
-      "versionNonce": 1749,
+      "version": 2,
+      "versionNonce": 1938514747,
       "isDeleted": false,
       "boundElements": [
         {
@@ -8398,9 +8610,10 @@
           "id": "g1cmdkvdgo"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aG"
     },
     {
       "id": "g1cmdkvdgo",
@@ -8421,11 +8634,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1751,
-      "version": 1,
-      "versionNonce": 1752,
+      "version": 2,
+      "versionNonce": 1740358133,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "IO y STM\nno se mezclan",
@@ -8436,7 +8649,8 @@
       "containerId": "g1cj8p1dpj",
       "originalText": "IO y STM\nno se mezclan",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aH"
     },
     {
       "id": "g1cpqgvf7t",
@@ -8457,13 +8671,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1754,
-      "version": 1,
-      "versionNonce": 1755,
+      "version": 2,
+      "versionNonce": 1414611931,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aI"
     },
     {
       "id": "g1csv4ocbq",
@@ -8484,11 +8699,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1757,
-      "version": 1,
-      "versionNonce": 1758,
+      "version": 2,
+      "versionNonce": 1194965845,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "exec cont = do\n    hPutStr stdout \"Incrementando...\"\n    incTVar cont                  -- ERROR: es STM y este bloque es IO (no compila)\n\nexec cont = do\n    hPutStr stdout \"Incrementando...\"\n    atomically (incTVar cont)     -- OK: atomically lo convierte en IO\n\nmain = do\n    cont <- atomically (newTVar 3)\n    exec cont",
@@ -8499,7 +8714,8 @@
       "containerId": null,
       "originalText": "exec cont = do\n    hPutStr stdout \"Incrementando...\"\n    incTVar cont                  -- ERROR: es STM y este bloque es IO (no compila)\n\nexec cont = do\n    hPutStr stdout \"Incrementando...\"\n    atomically (incTVar cont)     -- OK: atomically lo convierte en IO\n\nmain = do\n    cont <- atomically (newTVar 3)\n    exec cont",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aJ"
     },
     {
       "id": "g1cvb46ven",
@@ -8522,13 +8738,14 @@
         "type": 3
       },
       "seed": 1760,
-      "version": 1,
-      "versionNonce": 1761,
+      "version": 2,
+      "versionNonce": 785518715,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aK"
     },
     {
       "id": "g1cyl3adog",
@@ -8549,11 +8766,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1763,
-      "version": 1,
-      "versionNonce": 1764,
+      "version": 2,
+      "versionNonce": 1802602677,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "La restricción tiene sentido: como una transacción SE PUEDE RE-EJECUTAR, un efecto de IO adentro\n(imprimir, mandar una petición) quedaría fuera de control y SE REPETIRÍA. Por eso un hPutStr dentro\nde un atomically no compila: los efectos de IO van AFUERA de la transacción.",
@@ -8564,7 +8781,8 @@
       "containerId": null,
       "originalText": "La restricción tiene sentido: como una transacción SE PUEDE RE-EJECUTAR, un efecto de IO adentro\n(imprimir, mandar una petición) quedaría fuera de control y SE REPETIRÍA. Por eso un hPutStr dentro\nde un atomically no compila: los efectos de IO van AFUERA de la transacción.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aL"
     },
     {
       "id": "g1d15mxt14",
@@ -8585,11 +8803,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1766,
-      "version": 1,
-      "versionNonce": 1767,
+      "version": 2,
+      "versionNonce": 1691371803,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Qué pasa si dos transacciones incrementan el mismo contador a la vez?",
@@ -8600,7 +8818,8 @@
       "containerId": null,
       "originalText": "¿Qué pasa si dos transacciones incrementan el mismo contador a la vez?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aM"
     },
     {
       "id": "g1d4l1q9h7",
@@ -8623,13 +8842,14 @@
         "type": 3
       },
       "seed": 1769,
-      "version": 1,
-      "versionNonce": 1770,
+      "version": 2,
+      "versionNonce": 1174972949,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aN"
     },
     {
       "id": "g1d7kfhnlp",
@@ -8650,11 +8870,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1772,
-      "version": 1,
-      "versionNonce": 1773,
+      "version": 2,
+      "versionNonce": 2076077499,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Una confirma; la otra detecta que su lectura\nquedó vieja, descarta su log y reintenta con\nel valor nuevo.",
@@ -8665,7 +8885,8 @@
       "containerId": null,
       "originalText": "Una confirma; la otra detecta que su lectura\nquedó vieja, descarta su log y reintenta con\nel valor nuevo.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aO"
     },
     {
       "id": "g1dazmvq0o",
@@ -8688,11 +8909,11 @@
         "type": 3
       },
       "seed": 1775,
-      "version": 1,
-      "versionNonce": 1776,
+      "version": 2,
+      "versionNonce": 2012520309,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -8710,7 +8931,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "aP"
     },
     {
       "id": "g1ddsbi2d3",
@@ -8731,11 +8953,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1778,
-      "version": 1,
-      "versionNonce": 1779,
+      "version": 2,
+      "versionNonce": 650051163,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Por qué no se puede imprimir dentro de atomically?",
@@ -8746,7 +8968,8 @@
       "containerId": null,
       "originalText": "¿Por qué no se puede imprimir dentro de atomically?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aQ"
     },
     {
       "id": "g1dg9ts1tg",
@@ -8769,13 +8992,14 @@
         "type": 3
       },
       "seed": 1781,
-      "version": 1,
-      "versionNonce": 1782,
+      "version": 2,
+      "versionNonce": 1736108245,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aR"
     },
     {
       "id": "g1djaezch5",
@@ -8796,11 +9020,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1784,
-      "version": 1,
-      "versionNonce": 1785,
+      "version": 2,
+      "versionNonce": 279214843,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "La transacción puede re-ejecutarse y el efecto\nse repetiría; por tipos, STM no admite IO.",
@@ -8811,7 +9035,8 @@
       "containerId": null,
       "originalText": "La transacción puede re-ejecutarse y el efecto\nse repetiría; por tipos, STM no admite IO.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aS"
     },
     {
       "id": "g1dmafipk8",
@@ -8834,11 +9059,11 @@
         "type": 3
       },
       "seed": 1787,
-      "version": 1,
-      "versionNonce": 1788,
+      "version": 2,
+      "versionNonce": 372311605,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -8856,7 +9081,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "aT"
     },
     {
       "id": "g1dp4ra8li",
@@ -8879,8 +9105,8 @@
         "type": 3
       },
       "seed": 1790,
-      "version": 1,
-      "versionNonce": 1791,
+      "version": 2,
+      "versionNonce": 1710318491,
       "isDeleted": false,
       "boundElements": [
         {
@@ -8888,9 +9114,10 @@
           "id": "g1ds7mhv41"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aU"
     },
     {
       "id": "g1ds7mhv41",
@@ -8911,11 +9138,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1793,
-      "version": 1,
-      "versionNonce": 1794,
+      "version": 2,
+      "versionNonce": 922515349,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "6. retry, check y orElse",
@@ -8926,7 +9153,8 @@
       "containerId": "g1dp4ra8li",
       "originalText": "6. retry, check y orElse",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aV"
     },
     {
       "id": "g1dvqlh03i",
@@ -8949,8 +9177,8 @@
         "type": 3
       },
       "seed": 1796,
-      "version": 1,
-      "versionNonce": 1797,
+      "version": 2,
+      "versionNonce": 517486651,
       "isDeleted": false,
       "boundElements": [
         {
@@ -8958,9 +9186,10 @@
           "id": "g1dy4lnkh5"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aW"
     },
     {
       "id": "g1dy4lnkh5",
@@ -8981,11 +9210,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1799,
-      "version": 1,
-      "versionNonce": 1800,
+      "version": 2,
+      "versionNonce": 68336885,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Reintentar a\npropósito",
@@ -8996,7 +9225,8 @@
       "containerId": "g1dvqlh03i",
       "originalText": "Reintentar a\npropósito",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aX"
     },
     {
       "id": "g1e1fk62ej",
@@ -9017,11 +9247,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1802,
-      "version": 1,
-      "versionNonce": 1803,
+      "version": 2,
+      "versionNonce": 154892507,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Además del reintento automático por conflicto, una transacción puede REINTENTAR A PROPÓSITO cuando\ntodavía no se cumple una condición. RETRY aborta la transacción y STM la SUSPENDE hasta que cambie\nalguna de las TVars que leyó; ahí la vuelve a ejecutar → se espera una condición SIN BUSY WAITING.",
@@ -9032,7 +9262,8 @@
       "containerId": null,
       "originalText": "Además del reintento automático por conflicto, una transacción puede REINTENTAR A PROPÓSITO cuando\ntodavía no se cumple una condición. RETRY aborta la transacción y STM la SUSPENDE hasta que cambie\nalguna de las TVars que leyó; ahí la vuelve a ejecutar → se espera una condición SIN BUSY WAITING.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aY"
     },
     {
       "id": "g1e4jm2aml",
@@ -9053,11 +9284,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1805,
-      "version": 1,
-      "versionNonce": 1806,
+      "version": 2,
+      "versionNonce": 1425626709,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Primitivas",
@@ -9068,7 +9299,8 @@
       "containerId": null,
       "originalText": "Primitivas",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aZ"
     },
     {
       "id": "g1e7jjl3ql",
@@ -9089,13 +9321,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1808,
-      "version": 1,
-      "versionNonce": 1809,
+      "version": 2,
+      "versionNonce": 313369979,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aa"
     },
     {
       "id": "g1ea2tfrow",
@@ -9116,11 +9349,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1811,
-      "version": 1,
-      "versionNonce": 1812,
+      "version": 2,
+      "versionNonce": 1954923445,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "retry :: STM a\n\ncheck :: Bool -> STM ()\ncheck True  = return ()\ncheck False = retry\n\norElse :: STM a -> STM a -> STM a",
@@ -9131,7 +9364,8 @@
       "containerId": null,
       "originalText": "retry :: STM a\n\ncheck :: Bool -> STM ()\ncheck True  = return ()\ncheck False = retry\n\norElse :: STM a -> STM a -> STM a",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ab"
     },
     {
       "id": "g1edot718u",
@@ -9152,11 +9386,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1814,
-      "version": 1,
-      "versionNonce": 1815,
+      "version": 2,
+      "versionNonce": 1383153179,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Semáforo con retry",
@@ -9167,7 +9401,8 @@
       "containerId": null,
       "originalText": "Semáforo con retry",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ac"
     },
     {
       "id": "g1eguqtorx",
@@ -9188,13 +9423,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1817,
-      "version": 1,
-      "versionNonce": 1818,
+      "version": 2,
+      "versionNonce": 920487189,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ad"
     },
     {
       "id": "g1ejthfu2z",
@@ -9215,11 +9451,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1820,
-      "version": 1,
-      "versionNonce": 1821,
+      "version": 2,
+      "versionNonce": 1400423099,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "type Semaphore = TVar Bool\n\np sem = do                  -- tomar\n  libre <- readTVar sem\n  if libre then writeTVar sem False\n           else retry       -- ocupado: esperar\n\nv sem = writeTVar sem True  -- liberar",
@@ -9230,7 +9466,8 @@
       "containerId": null,
       "originalText": "type Semaphore = TVar Bool\n\np sem = do                  -- tomar\n  libre <- readTVar sem\n  if libre then writeTVar sem False\n           else retry       -- ocupado: esperar\n\nv sem = writeTVar sem True  -- liberar",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ae"
     },
     {
       "id": "g1emv37h57",
@@ -9251,11 +9488,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1823,
-      "version": 1,
-      "versionNonce": 1824,
+      "version": 2,
+      "versionNonce": 1333140085,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "• Un recurso con n unidades se toma con check (pedido <= n) y se libera sumándolas de vuelta.\n• ORELSE combina dos transacciones: si la primera hace retry, en vez de esperar PRUEBA LA SEGUNDA.",
@@ -9266,7 +9503,8 @@
       "containerId": null,
       "originalText": "• Un recurso con n unidades se toma con check (pedido <= n) y se libera sumándolas de vuelta.\n• ORELSE combina dos transacciones: si la primera hace retry, en vez de esperar PRUEBA LA SEGUNDA.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "af"
     },
     {
       "id": "g1ep9d25ju",
@@ -9289,8 +9527,8 @@
         "type": 3
       },
       "seed": 1826,
-      "version": 1,
-      "versionNonce": 1827,
+      "version": 2,
+      "versionNonce": 510047067,
       "isDeleted": false,
       "boundElements": [
         {
@@ -9298,9 +9536,10 @@
           "id": "g1esv8my5y"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ag"
     },
     {
       "id": "g1esv8my5y",
@@ -9321,11 +9560,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1829,
-      "version": 1,
-      "versionNonce": 1830,
+      "version": 2,
+      "versionNonce": 1729430485,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Ejemplo:\ntransferencia",
@@ -9336,7 +9575,8 @@
       "containerId": "g1ep9d25ju",
       "originalText": "Ejemplo:\ntransferencia",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ah"
     },
     {
       "id": "g1evbkxelh",
@@ -9357,13 +9597,14 @@
       "frameId": null,
       "roundness": null,
       "seed": 1832,
-      "version": 1,
-      "versionNonce": 1833,
+      "version": 2,
+      "versionNonce": 59609083,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ai"
     },
     {
       "id": "g1eyyrp7ji",
@@ -9384,11 +9625,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1835,
-      "version": 1,
-      "versionNonce": 1836,
+      "version": 2,
+      "versionNonce": 1909440821,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "transferir :: TVar Int -> TVar Int -> Int -> STM ()\ntransferir origen destino monto = do\n  saldo <- readTVar origen\n  check (saldo >= monto)               -- si no alcanza, espera a que cambie el saldo\n  writeTVar origen (saldo - monto)\n  modifyTVar' destino (+ monto)\n\nmain = do\n  origen  <- newTVarIO 100\n  destino <- newTVarIO 20\n  atomically (transferir origen destino 30)\n  saldos <- atomically ((,) <$> readTVar origen <*> readTVar destino)\n  print saldos                         -- (70,50): débito y crédito se confirman juntos",
@@ -9399,7 +9640,8 @@
       "containerId": null,
       "originalText": "transferir :: TVar Int -> TVar Int -> Int -> STM ()\ntransferir origen destino monto = do\n  saldo <- readTVar origen\n  check (saldo >= monto)               -- si no alcanza, espera a que cambie el saldo\n  writeTVar origen (saldo - monto)\n  modifyTVar' destino (+ monto)\n\nmain = do\n  origen  <- newTVarIO 100\n  destino <- newTVarIO 20\n  atomically (transferir origen destino 30)\n  saldos <- atomically ((,) <$> readTVar origen <*> readTVar destino)\n  print saldos                         -- (70,50): débito y crédito se confirman juntos",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aj"
     },
     {
       "id": "g1f1gnoc4m",
@@ -9422,13 +9664,14 @@
         "type": 3
       },
       "seed": 1838,
-      "version": 1,
-      "versionNonce": 1839,
+      "version": 2,
+      "versionNonce": 619698331,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ak"
     },
     {
       "id": "g1f42tcinq",
@@ -9449,11 +9692,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1841,
-      "version": 1,
-      "versionNonce": 1842,
+      "version": 2,
+      "versionNonce": 1158402709,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Otro thread que lea los dos saldos dentro de una transacción ve el estado anterior o el posterior,\nNUNCA EL DÉBITO SIN EL CRÉDITO.",
@@ -9464,7 +9707,8 @@
       "containerId": null,
       "originalText": "Otro thread que lea los dos saldos dentro de una transacción ve el estado anterior o el posterior,\nNUNCA EL DÉBITO SIN EL CRÉDITO.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "al"
     },
     {
       "id": "g1f7u3ve2f",
@@ -9485,11 +9729,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1844,
-      "version": 1,
-      "versionNonce": 1845,
+      "version": 2,
+      "versionNonce": 1077939515,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Qué hace retry y por qué no es busy waiting?",
@@ -9500,7 +9744,8 @@
       "containerId": null,
       "originalText": "¿Qué hace retry y por qué no es busy waiting?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "am"
     },
     {
       "id": "g1faa3oa3i",
@@ -9523,13 +9768,14 @@
         "type": 3
       },
       "seed": 1847,
-      "version": 1,
-      "versionNonce": 1848,
+      "version": 2,
+      "versionNonce": 1837021173,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "an"
     },
     {
       "id": "g1fd88rqj5",
@@ -9550,11 +9796,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1850,
-      "version": 1,
-      "versionNonce": 1851,
+      "version": 2,
+      "versionNonce": 954248667,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Aborta y suspende la transacción hasta que\ncambie alguna TVar que leyó; no consume CPU\nmientras espera.",
@@ -9565,7 +9811,8 @@
       "containerId": null,
       "originalText": "Aborta y suspende la transacción hasta que\ncambie alguna TVar que leyó; no consume CPU\nmientras espera.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ao"
     },
     {
       "id": "g1fgszxea1",
@@ -9588,11 +9835,11 @@
         "type": 3
       },
       "seed": 1853,
-      "version": 1,
-      "versionNonce": 1854,
+      "version": 2,
+      "versionNonce": 1160638805,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -9610,7 +9857,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "ap"
     },
     {
       "id": "g1fjmbphaa",
@@ -9633,8 +9881,8 @@
         "type": 3
       },
       "seed": 1856,
-      "version": 1,
-      "versionNonce": 1857,
+      "version": 2,
+      "versionNonce": 1642347131,
       "isDeleted": false,
       "boundElements": [
         {
@@ -9642,9 +9890,10 @@
           "id": "g1fmv057er"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "aq"
     },
     {
       "id": "g1fmv057er",
@@ -9665,11 +9914,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1859,
-      "version": 1,
-      "versionNonce": 1860,
+      "version": 2,
+      "versionNonce": 1232010933,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "7. Los filósofos comensales",
@@ -9680,7 +9929,8 @@
       "containerId": "g1fjmbphaa",
       "originalText": "7. Los filósofos comensales",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ar"
     },
     {
       "id": "g1fpjzpbyy",
@@ -9703,13 +9953,14 @@
         "type": 3
       },
       "seed": 1862,
-      "version": 1,
-      "versionNonce": 1863,
+      "version": 2,
+      "versionNonce": 135082779,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "as"
     },
     {
       "id": "g1fsfyixmm",
@@ -9730,11 +9981,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1865,
-      "version": 1,
-      "versionNonce": 1866,
+      "version": 2,
+      "versionNonce": 820469781,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "mesa",
@@ -9745,7 +9996,8 @@
       "containerId": null,
       "originalText": "mesa",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "at"
     },
     {
       "id": "g1fvmwwzh5",
@@ -9768,8 +10020,8 @@
         "type": 3
       },
       "seed": 1868,
-      "version": 1,
-      "versionNonce": 1869,
+      "version": 2,
+      "versionNonce": 1003362235,
       "isDeleted": false,
       "boundElements": [
         {
@@ -9777,9 +10029,10 @@
           "id": "g1fy02yxwn"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "au"
     },
     {
       "id": "g1fy02yxwn",
@@ -9800,11 +10053,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1871,
-      "version": 1,
-      "versionNonce": 1872,
+      "version": 2,
+      "versionNonce": 1099732341,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "F1",
@@ -9815,7 +10068,8 @@
       "containerId": "g1fvmwwzh5",
       "originalText": "F1",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "av"
     },
     {
       "id": "g1g12yqhd0",
@@ -9836,11 +10090,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1874,
-      "version": 1,
-      "versionNonce": 1875,
+      "version": 2,
+      "versionNonce": 1531537499,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "🍴",
@@ -9851,7 +10105,8 @@
       "containerId": null,
       "originalText": "🍴",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "aw"
     },
     {
       "id": "g1g47yn68a",
@@ -9874,8 +10129,8 @@
         "type": 3
       },
       "seed": 1877,
-      "version": 1,
-      "versionNonce": 1878,
+      "version": 2,
+      "versionNonce": 1722031829,
       "isDeleted": false,
       "boundElements": [
         {
@@ -9883,9 +10138,10 @@
           "id": "g1g78b052v"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "ax"
     },
     {
       "id": "g1g78b052v",
@@ -9906,11 +10162,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1880,
-      "version": 1,
-      "versionNonce": 1881,
+      "version": 2,
+      "versionNonce": 1548854523,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "F2",
@@ -9921,7 +10177,8 @@
       "containerId": "g1g47yn68a",
       "originalText": "F2",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "ay"
     },
     {
       "id": "g1gashhd4t",
@@ -9942,11 +10199,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1883,
-      "version": 1,
-      "versionNonce": 1884,
+      "version": 2,
+      "versionNonce": 113474613,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "🍴",
@@ -9957,7 +10214,8 @@
       "containerId": null,
       "originalText": "🍴",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "az"
     },
     {
       "id": "g1gdrnhmz6",
@@ -9980,8 +10238,8 @@
         "type": 3
       },
       "seed": 1886,
-      "version": 1,
-      "versionNonce": 1887,
+      "version": 2,
+      "versionNonce": 1449741723,
       "isDeleted": false,
       "boundElements": [
         {
@@ -9989,9 +10247,10 @@
           "id": "g1ggl2stok"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b00"
     },
     {
       "id": "g1ggl2stok",
@@ -10012,11 +10271,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1889,
-      "version": 1,
-      "versionNonce": 1890,
+      "version": 2,
+      "versionNonce": 433073557,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "F3",
@@ -10027,7 +10286,8 @@
       "containerId": "g1gdrnhmz6",
       "originalText": "F3",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b01"
     },
     {
       "id": "g1gjjvkwk1",
@@ -10048,11 +10308,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1892,
-      "version": 1,
-      "versionNonce": 1893,
+      "version": 2,
+      "versionNonce": 1287840315,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "🍴",
@@ -10063,7 +10323,8 @@
       "containerId": null,
       "originalText": "🍴",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b02"
     },
     {
       "id": "g1gm3m3udq",
@@ -10086,8 +10347,8 @@
         "type": 3
       },
       "seed": 1895,
-      "version": 1,
-      "versionNonce": 1896,
+      "version": 2,
+      "versionNonce": 2130686709,
       "isDeleted": false,
       "boundElements": [
         {
@@ -10095,9 +10356,10 @@
           "id": "g1gpozzecy"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b03"
     },
     {
       "id": "g1gpozzecy",
@@ -10118,11 +10380,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1898,
-      "version": 1,
-      "versionNonce": 1899,
+      "version": 2,
+      "versionNonce": 943776475,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "F4",
@@ -10133,7 +10395,8 @@
       "containerId": "g1gm3m3udq",
       "originalText": "F4",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b04"
     },
     {
       "id": "g1gsohs94u",
@@ -10154,11 +10417,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1901,
-      "version": 1,
-      "versionNonce": 1902,
+      "version": 2,
+      "versionNonce": 316116053,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "🍴",
@@ -10169,7 +10432,8 @@
       "containerId": null,
       "originalText": "🍴",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b05"
     },
     {
       "id": "g1gv7799lk",
@@ -10192,8 +10456,8 @@
         "type": 3
       },
       "seed": 1904,
-      "version": 1,
-      "versionNonce": 1905,
+      "version": 2,
+      "versionNonce": 1366675323,
       "isDeleted": false,
       "boundElements": [
         {
@@ -10201,9 +10465,10 @@
           "id": "g1gy5f0sm6"
         }
       ],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b06"
     },
     {
       "id": "g1gy5f0sm6",
@@ -10224,11 +10489,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1907,
-      "version": 1,
-      "versionNonce": 1908,
+      "version": 2,
+      "versionNonce": 86849973,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "F5",
@@ -10239,7 +10504,8 @@
       "containerId": "g1gv7799lk",
       "originalText": "F5",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b07"
     },
     {
       "id": "g1h1pfeq7e",
@@ -10260,11 +10526,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1910,
-      "version": 1,
-      "versionNonce": 1911,
+      "version": 2,
+      "versionNonce": 446965787,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "🍴",
@@ -10275,7 +10541,8 @@
       "containerId": null,
       "originalText": "🍴",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b08"
     },
     {
       "id": "g1h4ygzv2v",
@@ -10296,11 +10563,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1913,
-      "version": 1,
-      "versionNonce": 1914,
+      "version": 2,
+      "versionNonce": 1864776469,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Cinco filósofos alrededor de una mesa, con UN TENEDOR ENTRE CADA PAR;\npara comer, cada uno necesita LOS DOS tenedores que tiene al lado.\n\n• Con LOCKS: si todos toman primero el izquierdo, quedan en DEADLOCK.\n\n• Con STM: cada tenedor es una TMVar (la versión transaccional de\n  MVar, vacía o llena). takeTMVar hace retry si está vacía. Tomar los\n  dos tenedores dentro de UN MISMO atomically hace que un filósofo\n  agarre AMBOS O NINGUNO: no hay deadlock porque nadie se queda con\n  uno solo esperando el otro.",
@@ -10311,7 +10578,8 @@
       "containerId": null,
       "originalText": "Cinco filósofos alrededor de una mesa, con UN TENEDOR ENTRE CADA PAR;\npara comer, cada uno necesita LOS DOS tenedores que tiene al lado.\n\n• Con LOCKS: si todos toman primero el izquierdo, quedan en DEADLOCK.\n\n• Con STM: cada tenedor es una TMVar (la versión transaccional de\n  MVar, vacía o llena). takeTMVar hace retry si está vacía. Tomar los\n  dos tenedores dentro de UN MISMO atomically hace que un filósofo\n  agarre AMBOS O NINGUNO: no hay deadlock porque nadie se queda con\n  uno solo esperando el otro.",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b09"
     },
     {
       "id": "g1h7alq6sg",
@@ -10332,11 +10600,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1916,
-      "version": 1,
-      "versionNonce": 1917,
+      "version": 2,
+      "versionNonce": 700345531,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "¿Por qué con STM no hay deadlock en los filósofos?",
@@ -10347,7 +10615,8 @@
       "containerId": null,
       "originalText": "¿Por qué con STM no hay deadlock en los filósofos?",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0A"
     },
     {
       "id": "g1hawlt69f",
@@ -10370,13 +10639,14 @@
         "type": 3
       },
       "seed": 1919,
-      "version": 1,
-      "versionNonce": 1920,
+      "version": 2,
+      "versionNonce": 691540085,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
-      "locked": false
+      "locked": false,
+      "index": "b0B"
     },
     {
       "id": "g1hdlzkv41",
@@ -10397,11 +10667,11 @@
       "frameId": null,
       "roundness": null,
       "seed": 1922,
-      "version": 1,
-      "versionNonce": 1923,
+      "version": 2,
+      "versionNonce": 845618523,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "text": "Los dos tenedores se toman en un mismo\natomically: o agarra ambos o ninguno (retry).",
@@ -10412,7 +10682,8 @@
       "containerId": null,
       "originalText": "Los dos tenedores se toman en un mismo\natomically: o agarra ambos o ninguno (retry).",
       "autoResize": true,
-      "lineHeight": 1.25
+      "lineHeight": 1.25,
+      "index": "b0C"
     },
     {
       "id": "g1hgzq9taa",
@@ -10435,11 +10706,11 @@
         "type": 3
       },
       "seed": 1925,
-      "version": 1,
-      "versionNonce": 1926,
+      "version": 2,
+      "versionNonce": 1630026197,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1795491565091,
+      "updated": 1795620722922,
       "link": null,
       "locked": false,
       "points": [
@@ -10457,7 +10728,8 @@
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false,
-      "lastCommittedPoint": null
+      "lastCommittedPoint": null,
+      "index": "b0D"
     },
     {
       "id": "akUWSQN1nQFHb_lrCaKT2",
