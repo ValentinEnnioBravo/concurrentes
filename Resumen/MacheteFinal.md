@@ -103,14 +103,23 @@ La BEAM es un **SOLO proceso del SO**, pero levanta un scheduler por core.
 - **Mailbox**
 - **Pattern Matching**
 - **Call** asincrónico / **Recieve** sincrónico - `spawn`
-- **PID**: identificador del proceso
 - **Let it crash**
+- **Nodo**: instancia de la VM de earlang
+- **Cluster**: grupo de nodos conectados que pueden enviarse mensajes. Conexiones transitivas, cuando uno se conecta se conoce con todos, si el nodo sabe a quien conectarse.
+- **PID**: identificador del proceso en todo el por cluster.
+- **Cookie**: challenge para conectar solo los nodos que deben conectarse entre sí, tiene una por default en una misma máquina. No es seguridad, la seguridad va por fuera. 
+- **EPMD**: Uno por máquina, se levanta solo al arrancar el nodo por nombre, sabe en qué puerto atiende cada nodo. 
+- **Heartbeat**: La caída se detecta por FALTA de tick → no distingue si el otro nodo se cayó, si se cortó la red (partición) o si está muy lento. Solo sabe que se perdió la comunicación.
+- **Failover**: se cae el nodo activo → la aplicación se levanta en el siguiente de la lista. ante falta de heartbeat detectar la caída del nodo (nodeup | nodedown)
+- **Takeover**:  vuelve un nodo de MAYOR prioridad → recupera la aplicación y el respaldo la detiene.
 
 ---
 
 ### Componentes de Actores
 - **OTP**: Mddlwares, librerías y herramientas que encapsulan implementaciones.
 - **Observer**: herramienta gráfica para visualziar memoria, CPU, schedulers y procesos vivos con estado, mailbox, links y monitores.
+- **libcluster**: únicamente forma el cluster automáticamente y reconectar cuando vuelve. NO LEVANTA. Estrategias de discovery: EPMD | LocalEPMD | EarlangHost | Gossip (aviso UDP multicast, no recomendado porque al no haber ACK en UDP se pueden perder los paquetes, el heartbeat, falso negativo) | Kubernetes o DNS (Consultando API de Kubernetes o registro DNS)
+- **Horde**: cubre lo que libcluster no; DÓNDE vive cada proceso, supervisión y registry a nivel cluster.
 
 #### Señal
 Forma de **propagar errores**. Los procesos reciben señales, que **no son mensajes**, manejadas por la VM, sin pasar por el mailbox, viajan con una razón y permiten terminar el proceso.
@@ -139,7 +148,9 @@ Es **local al nodo**, no encuentra los registrados en otro nodo, aunque estén c
 Localiza, no supervisa ni guarda el estado. 
 
 #### Registry (Horde)
-Detecta a los registrados en otros nodos. 
+Registry DEL CLUSTER: registrás un nombre una vez y lo encontrás DESDE CUALQUIER NODO (via tuple {:via, Horde.Registry, {Reg, nombre}}).
+
+![alt text](image-1.png)
 
 #### Supervisores (OTP)
 Proceso especial de OTP cuyo único trabajo es **SUPERVISAR A SUS HIJOS**: los **CREA** al arrancar y los **VUELVE A CREAR** cuando fallan. Se encarga de **TODO EL CICLO DE VIDA** de sus hijos. Está linkeado a sus hijos pero maneja `trap_exit`, recibe la señal pero no muere. Si muere, todos sus hijos mueren.
@@ -157,3 +168,19 @@ Proceso especial de OTP cuyo único trabajo es **SUPERVISAR A SUS HIJOS**: los *
 - **one for one**: solo el hijo que falló
 - **one for all**: todos
 - **rest for one**: el que falló y los definidos después en la lista, útil para dependencias en casada
+
+#### DynamicSupervisor (Horde)
+Supervisor dinámico DEL CLUSTER. Le pasás un child spec y crea el proceso en ALGÚN nodo (no necesariamente el tuyo). Si se cae el nodo, lo vuelve a levantar en otro. El nombre entre nodos debe ser el mismo.
+
+Manejo de failover: El proceso recreado ARRANCA CON SU ESTADO INICIAL (lo que dice el child spec): el estado que tenía SE PERDIÓ. Lo que se conserva es la IDENTIDAD: ese proceso, con ese nombre (ej. un nº de cuenta), sigue existiendo en algún nodo → otro PID, mismo nombre. Replicar el estado es trabajo nuestro.
+
+**Estrategias de distribución**
+Con qué criterio elige el nodo para cada proceso:
+- **Uniform Distribution**: HASH del id del hijo → reparte parejo entre los nodos vivos
+- **Random Distribution**: Un nodo AL AZAR
+- **Quorum  Distribution**: Como la uniforme, pero solo arranca procesos si ESTE LADO del cluster tiene QUÓRUM (mayoría de nodos). Ante un netsplit, solo el lado con mayoría de nodos arranca procesos → evita que las dos mitades levanten el mismo proceso.
+
+
+---
+
+## Distribución
